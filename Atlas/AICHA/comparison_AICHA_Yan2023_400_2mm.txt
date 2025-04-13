@@ -1,0 +1,385 @@
+AICHA_Index,AICHA_Abbreviation,AICHA_Region,AICHA_Structure,AICHA_Hemisphere,AICHA_Number_of_Voxels,AICHA_Volume_mm3,AICHA_coordinates_Xmm,AICHA_coordinates_Ymm,AICHA_coordinates_Zmm,Network_7_Yan400_Name,Network_7_Yan400_Index
+1,F1_1,Superior Frontal Gyrus (1),Cortical,Left,139,1112,-15.99,64.94,13.08,Default,7
+2,F1_1,Superior Frontal Gyrus (1),Cortical,Right,25,200,12.88,67.68,10.64,Default,7
+3,F1_2,Superior Frontal Gyrus (2),Cortical,Left,1108,8864,-11.88,46.49,41.42,Default,7
+4,F1_2,Superior Frontal Gyrus (2),Cortical,Right,1168,9344,12.02,45.06,41.82,Default,7
+5,F1_3,Superior Frontal Gyrus (3),Cortical,Left,57,456,-19.79,16.21,63.44,Default,7
+6,F1_3,Superior Frontal Gyrus (3),Cortical,Right,102,816,19.41,17.2,60.69,Default,7
+7,f1_1,superior frontal sulcus (1),Cortical,Left,267,2136,-22.02,61.48,-8.25,Limbic,5
+8,f1_1,superior frontal sulcus (1),Cortical,Right,620,4960,20.25,62.74,-5.59,Limbic,5
+9,f1_2,superior frontal sulcus (2),Cortical,Left,783,6264,-27.22,55.62,1.36,Default,7
+10,f1_2,superior frontal sulcus (2),Cortical,Right,604,4832,28.24,56.41,7.22,Cont,6
+11,f1_3,superior frontal sulcus (3),Cortical,Left,659,5272,-25.62,42.78,29.54,Default,7
+12,f1_3,superior frontal sulcus (3),Cortical,Right,655,5240,24.89,45.07,29.01,Default,7
+13,f1_4,superior frontal sulcus (4),Cortical,Left,980,7840,-23.01,29.26,48.03,Default,7
+14,f1_4,superior frontal sulcus (4),Cortical,Right,423,3384,19.91,35.52,48.43,Default,7
+15,f1_5,superior frontal sulcus (5),Cortical,Left,611,4888,-27.14,10.77,56.57,Default,7
+16,f1_5,superior frontal sulcus (5),Cortical,Right,1035,8280,27.18,16.82,52.21,Cont,6
+17,f1_6,superior frontal sulcus (6),Cortical,Left,608,4864,-23.73,0.28,58.99,DorsAttn,3
+18,f1_6,superior frontal sulcus (6),Cortical,Right,528,4224,23.24,2.15,59.55,DorsAttn,3
+19,F2_1,Middle Frontal Gyrus (1),Cortical,Left,272,2176,-39.98,41.11,19.53,Cont,6
+20,F2_1,Middle Frontal Gyrus (1),Cortical,Right,516,4128,41.31,44.34,13.44,Cont,6
+21,F2_2,Middle Frontal Gyrus (2),Cortical,Left,777,6216,-32.79,44.31,25.82,Cont,6
+22,F2_2,Middle Frontal Gyrus (2),Cortical,Right,697,5576,31.7,45.23,27.25,SalVentAttn,4
+23,F2_3,Middle Frontal Gyrus (3),Cortical,Left,146,1168,-39.03,31.01,35.93,Cont,6
+24,F2_3,Middle Frontal Gyrus (3),Cortical,Right,295,2360,37.31,33.04,35.04,Cont,6
+25,F2_4,Middle Frontal Gyrus (4),Cortical,Left,535,4280,-37.82,19.41,47.37,Default,7
+26,F2_4,Middle Frontal Gyrus (4),Cortical,Right,424,3392,38.83,21.57,46.44,Cont,6
+27,F2_5,Middle Frontal Gyrus (5),Cortical,Left,245,1960,-43.24,19.84,37.07,Cont,6
+28,F2_5,Middle Frontal Gyrus (5),Cortical,Right,527,4216,41.86,17.31,41.44,Cont,6
+29,f2_1,inferior frontal sulcus (1),Cortical,Left,585,4680,-44.24,38.32,11.74,Cont,6
+30,f2_1,inferior frontal sulcus (1),Cortical,Right,281,2248,46.38,39.59,9.88,Cont,6
+31,f2_2,inferior frontal sulcus (2),Cortical,Left,1116,8928,-43.11,14.84,29.41,Cont,6
+32,f2_2,inferior frontal sulcus (2),Cortical,Right,1138,9104,43.94,18.51,28.38,Cont,6
+33,F3t,Inferior Frontal Gyrus : Pars Triangularis,Cortical,Left,1289,10312,-49.44,25.56,4.68,Default,7
+34,F3t,Inferior Frontal Gyrus : Pars Triangularis,Cortical,Right,967,7736,49.83,28.54,5.02,Default,7
+35,F1O,Superior Orbito-Frontal Gyrus,Cortical,Left,421,3368,-12.43,52.19,-20.1,Limbic,5
+36,F1O,Superior Orbito-Frontal Gyrus,Cortical,Right,389,3112,12.46,50.19,-21,Limbic,5
+37,F2O1,Middle Orbito-Frontal Gyrus (1),Cortical,Left,105,840,-35.01,56.82,-7.71,Cont,6
+38,F2O1,Middle Orbito-Frontal Gyrus (1),Cortical,Right,178,1424,36.48,56.7,-6.21,Cont,6
+39,F2O2,Middle Orbito-Frontal Gyrus (2),Cortical,Left,505,4040,-41.05,48.99,-5.31,Cont,6
+40,F2O2,Middle Orbito-Frontal Gyrus (2),Cortical,Right,370,2960,39.72,50.22,-4.43,Cont,6
+41,F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),Cortical,Left,180,1440,-42.18,30.53,-16.87,Default,7
+42,F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),Cortical,Right,264,2112,44.22,33.02,-14.43,Default,7
+43,F3O2,Inferior Frontal Gyrus : Pars Orbitalis (2),Cortical,Left,557,4456,-21.25,22.59,-20.74,Limbic,5
+44,F3O2,Inferior Frontal Gyrus : Pars Orbitalis (2),Cortical,Right,509,4072,21.03,22.38,-19.69,Limbic,5
+45,orb1,orbital sulcus (1),Cortical,Left,278,2224,-24.97,38.57,-14.99,Limbic,5
+46,orb1,orbital sulcus (1),Cortical,Right,370,2960,25.82,41.49,-14.91,Cont,6
+47,orb2,orbital sulcus (2),Cortical,Left,225,1800,-31.14,33.93,-13.17,Default,7
+48,orb2,orbital sulcus (2),Cortical,Right,244,1952,29.18,34.31,-12.77,Default,7
+49,olf,olfactory sulcus,Cortical,Left,470,3760,-5.53,38.8,-23.45,Limbic,5
+50,olf,olfactory sulcus,Cortical,Right,477,3816,5.54,37.9,-23.47,Limbic,5
+51,prec1,precentral sulcus (1),Cortical,Left,250,2000,-49.74,6.14,25.67,DorsAttn,3
+52,prec1,precentral sulcus (1),Cortical,Right,337,2696,50.21,9.65,24.23,DorsAttn,3
+53,prec2,precentral sulcus (2),Cortical,Left,336,2688,-25.24,-8.47,58.87,DorsAttn,3
+54,prec2,precentral sulcus (2),Cortical,Right,309,2472,26.06,-7.72,58.05,DorsAttn,3
+55,prec3,precentral sulcus (3),Cortical,Left,74,592,-18.19,-8.7,69.3,SomMot,2
+56,prec3,precentral sulcus (3),Cortical,Right,40,320,19.75,-6.35,67.7,DorsAttn,3
+57,prec4,precentral sulcus (4),Cortical,Left,766,6128,-42.18,0.72,49.91,Default,7
+58,prec4,precentral sulcus (4),Cortical,Right,540,4320,43.66,1,48.36,DorsAttn,3
+59,prec5,precentral sulcus (5),Cortical,Left,146,1168,-56.11,4.79,30.58,DorsAttn,3
+60,prec5,precentral sulcus (5),Cortical,Right,147,1176,56.95,8.04,28.78,DorsAttn,3
+61,prec6,precentral sulcus (6),Cortical,Left,151,1208,-29.77,-11.18,64.68,SomMot,2
+62,prec6,precentral sulcus (6),Cortical,Right,119,952,30.91,-9.8,64.17,SomMot,2
+63,rol1,Rolandic fissure (1),Cortical,Left,1167,9336,-54.26,-8.37,31.99,SomMot,2
+64,rol1,Rolandic fissure (1),Cortical,Right,1101,8808,55.4,-5.2,31.14,SomMot,2
+65,rol2,Rolandic fissure (2),Cortical,Left,416,3328,-43.58,-13.72,50.62,SomMot,2
+66,rol2,Rolandic fissure (2),Cortical,Right,338,2704,44.72,-10.92,48.62,SomMot,2
+67,rol3,Rolandic fissure (3),Cortical,Left,1136,9088,-38.76,-23.13,61.44,SomMot,2
+68,rol3,Rolandic fissure (3),Cortical,Right,1148,9184,36.83,-20.18,60.01,SomMot,2
+69,rol4,Rolandic fissure (4),Cortical,Left,1110,8880,-23.14,-28.85,65.34,SomMot,2
+70,rol4,Rolandic fissure (4),Cortical,Right,733,5864,22.07,-27.33,65.41,SomMot,2
+71,post1,postcentral sulcus (1),Cortical,Left,194,1552,-57.52,-17.78,31.75,SomMot,2
+72,post1,postcentral sulcus (1),Cortical,Right,234,1872,58.27,-15,32.29,SomMot,2
+73,post2,postcentral sulcus (2),Cortical,Left,558,4464,-40.8,-33.45,54.73,SomMot,2
+74,post2,postcentral sulcus (2),Cortical,Right,756,6048,40.89,-29.91,52.31,SomMot,2
+75,post3,postcentral sulcus (3),Cortical,Left,587,4696,-43.01,-32.84,44.1,DorsAttn,3
+76,post3,postcentral sulcus (3),Cortical,Right,145,1160,47.97,-25.97,42.54,DorsAttn,3
+77,P1_1,Superior Parietal Gyrus (1),Cortical,Left,65,520,-23.63,-47.32,60.09,SomMot,2
+78,P1_1,Superior Parietal Gyrus (1),Cortical,Right,121,968,23.5,-46.83,62.89,DorsAttn,3
+79,P1_2,Superior Parietal Gyrus (2),Cortical,Left,209,1672,-18.6,-46.92,67.53,SomMot,2
+80,P1_2,Superior Parietal Gyrus (2),Cortical,Right,232,1856,19.9,-44.91,67.12,SomMot,2
+81,P1_3,Superior Parietal Gyrus (3),Cortical,Left,262,2096,-29.6,-51.22,66.56,DorsAttn,3
+82,P1_3,Superior Parietal Gyrus (3),Cortical,Right,148,1184,28.97,-48.93,67.51,DorsAttn,3
+83,P1_4,Superior Parietal Gyrus (4),Cortical,Left,223,1784,-24.83,-53.98,56.64,DorsAttn,3
+84,P1_4,Superior Parietal Gyrus (4),Cortical,Right,284,2272,25.51,-51.19,56.61,DorsAttn,3
+85,P1_5,Superior Parietal Gyrus (5),Cortical,Left,447,3576,-16.02,-61.32,61.46,DorsAttn,3
+86,P1_5,Superior Parietal Gyrus (5),Cortical,Right,292,2336,15.16,-57.86,62.38,DorsAttn,3
+87,SMG1,Supramarginal Gyrus (1),Cortical,Left,279,2232,-54.47,-29.51,21.37,SalVentAttn,4
+88,SMG1,Supramarginal Gyrus (1),Cortical,Right,367,2936,54.51,-26.41,22.05,SalVentAttn,4
+89,SMG2,SupraMarginal Gyrus (2),Cortical,Left,243,1944,-58.95,-29.15,25.89,SalVentAttn,4
+90,SMG2,SupraMarginal Gyrus (2),Cortical,Right,348,2784,58.72,-26.76,29.19,SalVentAttn,4
+91,SMG3,Supramarginal Gyrus (3),Cortical,Left,306,2448,-58.63,-27.42,36.65,SalVentAttn,4
+92,SMG3,Supramarginal Gyrus (3),Cortical,Right,205,1640,59.86,-23.09,38.5,SalVentAttn,4
+93,SMG4,Supramarginal Gyrus (4),Cortical,Left,329,2632,-59.11,-37.91,37.03,SalVentAttn,4
+94,SMG4,Supramarginal Gyrus (4),Cortical,Right,270,2160,60.16,-35.41,38.01,SalVentAttn,4
+95,SMG5,SupraMarginal Gyrus (5),Cortical,Left,107,856,-57.83,-42.56,29.27,SalVentAttn,4
+96,SMG5,SupraMarginal Gyrus (5),Cortical,Right,178,1424,59.7,-39.83,27.52,SalVentAttn,4
+97,SMG6,SupraMarginal Gyrus (6),Cortical,Left,120,960,-53.63,-42.1,46.05,Cont,6
+98,SMG6,SupraMarginal Gyrus (6),Cortical,Right,133,1064,53.77,-38.15,43.95,Cont,6
+99,SMG7,SupraMarginal Gyrus (7),Cortical,Left,303,2424,-55.21,-51.67,25.51,Default,7
+100,SMG7,SupraMarginal Gyrus (7),Cortical,Right,125,1000,55.36,-45.9,33.41,SalVentAttn,4
+101,AG1,Angular Gyrus (1),Cortical,Left,597,4776,-47.97,-57.21,43.71,Cont,6
+102,AG1,Angular Gyrus (1),Cortical,Right,541,4328,50.5,-52.29,42.51,Cont,6
+103,AG2,Angular Gyrus (2),Cortical,Left,519,4152,-37.54,-70.44,39.47,Default,7
+104,AG2,Angular Gyrus (2),Cortical,Right,555,4440,44.5,-62.37,36.28,Default,7
+105,AG3,Angular Gyrus (3),Cortical,Left,308,2464,-42.63,-70.64,27.04,Default,7
+106,AG3,Angular Gyrus (3),Cortical,Right,277,2216,47.01,-62.95,24.71,Default,7
+107,P2,Inferior Parietal Gyrus,Cortical,Left,211,1688,-44.91,-52.61,49.77,Cont,6
+108,P2,Inferior Parietal Gyrus,Cortical,Right,410,3280,42.73,-53.13,47.59,Cont,6
+109,ips1,intraparietal sulcus (1),Cortical,Left,413,3304,-41.4,-42.51,49.11,DorsAttn,3
+110,ips1,intraparietal sulcus (1),Cortical,Right,637,5096,40,-40.15,51.1,DorsAttn,3
+111,ips2,intraparietal sulcus (2),Cortical,Left,832,6656,-34.12,-58.3,46.21,Cont,6
+112,ips2,intraparietal sulcus (2),Cortical,Right,719,5752,37.42,-52.4,48.36,DorsAttn,3
+113,ips3,intraparietal sulcus (3),Cortical,Left,761,6088,-26.94,-59.8,44.38,DorsAttn,3
+114,ips3,intraparietal sulcus (3),Cortical,Right,771,6168,26.41,-61.67,46.28,DorsAttn,3
+115,ios,intraoccipital sulcus,Cortical,Left,50,400,-23.92,-71.72,32.44,DorsAttn,3
+116,ios,intraoccipital sulcus,Cortical,Right,48,384,27.83,-69.38,33.29,Vis,1
+117,Opole,Occipital Pole,Cortical,Left,302,2416,-21.37,-96.02,-13.74,Vis,1
+118,Opole,Occipital Pole,Cortical,Right,372,2976,23.67,-93.07,-12.92,Vis,1
+119,Olat1,Lateral Occipital Gyrus (1),Cortical,Left,356,2848,-15.24,-96.85,1.35,Vis,1
+120,Olat1,Lateral Occipital Gyrus (1),Cortical,Right,422,3376,17.11,-94.24,3.52,Vis,1
+121,Olat2,Lateral Occipital Gyrus (2),Cortical,Left,576,4608,-26.36,-93.63,-0.71,Vis,1
+122,Olat2,Lateral Occipital Gyrus (2),Cortical,Right,674,5392,28.07,-89.12,-2.06,Vis,1
+123,Olat3,Lateral Occipital Gyrus (3),Cortical,Left,145,1160,-39.57,-84.44,-11.94,Vis,1
+124,Olat3,Lateral Occipital Gyrus (3),Cortical,Right,110,880,43.51,-80.75,-10.49,Vis,1
+125,Olat4,Lateral Occipital Gyrus (4),Cortical,Left,485,3880,-30.78,-88.66,8.42,Vis,1
+126,Olat4,Lateral Occipital Gyrus (4),Cortical,Right,472,3776,33.62,-85.39,8.81,Vis,1
+127,Olat5,Lateral Occipital Gyrus (5),Cortical,Left,974,7792,-35.33,-78.75,-0.62,Vis,1
+128,Olat5,Lateral Occipital Gyrus (5),Cortical,Right,1015,8120,35.61,-75.57,1.65,Vis,1
+129,O1_1,Superior Occipital Gyrus (1),Cortical,Left,184,1472,-15.46,-82.53,34.54,Vis,1
+130,O1_1,Superior Occipital Gyrus (1),Cortical,Right,171,1368,18.05,-80.76,37.26,Vis,1
+131,O1_2,Superior Occipital Gyrus (2),Cortical,Left,499,3992,-14.09,-90.33,24.95,Vis,1
+132,O1_2,Superior Occipital Gyrus (2),Cortical,Right,560,4480,17.04,-87.78,26.47,Vis,1
+133,O2_1,Middle Occipital Gyrus (1),Cortical,Left,509,4072,-31.65,-78.1,25.26,Vis,1
+134,O2_1,Middle Occipital Gyrus (1),Cortical,Right,516,4128,36.16,-74.47,25.32,Vis,1
+135,O2_2,Middle Occipital Gyrus (2),Cortical,Left,225,1800,-36.97,-77.4,14.36,Vis,1
+136,O2_2,Middle Occipital Gyrus (2),Cortical,Right,376,3008,41.11,-72.91,12.18,Vis,1
+137,O2_3,Middle Occipital Gyrus (3),Cortical,Left,202,1616,-41.73,-71.49,17.95,DorsAttn,3
+138,O2_3,Middle Occipital Gyrus (3),Cortical,Right,159,1272,45.07,-63.14,15.12,DorsAttn,3
+139,O2_4,Middle Occipital Gyrus (4),Cortical,Left,363,2904,-36.15,-80.02,30.28,DorsAttn,3
+140,O2_4,Middle Occipital Gyrus (4),Cortical,Right,498,3984,40.92,-73.87,29.65,Default,7
+141,O3_1,Inferior Occipital Gyrus (1),Cortical,Left,139,1112,-48.42,-68.99,-4.3,Vis,1
+142,O3_1,Inferior Occipital Gyrus (1),Cortical,Right,180,1440,49.9,-60.21,-8.76,DorsAttn,3
+143,O3_2,Inferior Occipital Gyrus (2),Cortical,Left,382,3056,-44.53,-70.72,-6.68,Vis,1
+144,O3_2,Inferior Occipital Gyrus (2),Cortical,Right,450,3600,47.06,-64.73,-7.45,Vis,1
+145,INSa1,Anterior Insula (1),Cortical,Left,252,2016,-20.34,4.95,-19.33,Limbic,5
+146,INSa1,Anterior Insula (1),Cortical,Right,317,2536,19.35,7.05,-19.07,Limbic,5
+147,INSa2,Anterior Insula (2),Cortical,Left,399,3192,-33.79,16.79,-12.74,Default,7
+148,INSa2,Anterior Insula (2),Cortical,Right,273,2184,34.7,18.47,-12.73,Default,7
+149,INSa3,Anterior Insula (3),Cortical,Left,469,3752,-33.74,23.68,0.58,Cont,6
+150,INSa3,Anterior Insula (3),Cortical,Right,721,5768,36.8,24.21,-0.33,SalVentAttn,4
+151,INSa4,Anterior Insula (4),Cortical,Left,734,5872,-40.75,15.15,2.63,SalVentAttn,4
+152,INSa4,Anterior Insula (4),Cortical,Right,593,4744,40.81,14.51,4.09,SalVentAttn,4
+153,INSa5,Anterior Insula (5),Cortical,Left,593,4744,-41.78,-0.93,-8,SalVentAttn,4
+154,INSa5,Anterior Insula (5),Cortical,Right,591,4728,41.85,1.86,-8.75,SalVentAttn,4
+155,INSp,Posterior Insula,Cortical,Left,923,7384,-42.08,-19.1,13.71,SomMot,2
+156,INSp,Posterior Insula,Cortical,Right,858,6864,40.61,-19.46,14.31,SomMot,2
+157,ROLop1,Rolandic Operculum (1),Cortical,Left,650,5200,-46.26,3.59,9.39,SalVentAttn,4
+158,ROLop1,Rolandic Operculum (1),Cortical,Right,558,4464,46.1,5.65,9.35,SalVentAttn,4
+159,ROLop2,Rolandic Operculum (2),Cortical,Left,550,4400,-50.59,-8.96,13.91,SomMot,2
+160,ROLop2,Rolandic Operculum (2),Cortical,Right,616,4928,49.74,-6.32,13.89,SomMot,2
+161,T1_1,Superior Temporal Gyrus (1),Cortical,Left,105,840,-55.47,-1.12,2.3,SomMot,2
+162,T1_1,Superior Temporal Gyrus (1),Cortical,Right,136,1088,55.71,2.1,2.53,SomMot,2
+163,T1_2,Superior Temporal Gyrus (2),Cortical,Left,308,2464,-45.26,-10.94,-1.62,SomMot,2
+164,T1_2,Superior Temporal Gyrus (2),Cortical,Right,307,2456,46.53,-7.2,-1.59,SomMot,2
+165,T1_3,Superior Temporal Gyrus (3),Cortical,Left,954,7632,-52,-27.13,10.92,SomMot,2
+166,T1_3,Superior Temporal Gyrus (3),Cortical,Right,825,6600,57.27,-19.18,8.83,SomMot,2
+167,T1_4,Superior Temporal Gyrus (4),Cortical,Left,832,6656,-58.75,-23.25,3.73,Default,7
+168,T1_4,Superior Temporal Gyrus (4),Cortical,Right,729,5832,60.05,-19.98,2.2,SomMot,2
+169,STS1,superior temporal sulcus (1),Cortical,Left,326,2608,-49.71,14.02,-21.55,Limbic,5
+170,STS1,superior temporal sulcus (1),Cortical,Right,85,680,52.12,13.36,-25.86,Limbic,5
+171,STS2,superior temporal sulcus (2),Cortical,Left,403,3224,-54.86,-7.17,-12.75,Default,7
+172,STS2,superior temporal sulcus (2),Cortical,Right,767,6136,54.32,-2.5,-15.5,Default,7
+173,STS3,superior temporal sulcus (3),Cortical,Left,629,5032,-54.68,-33.01,-1.67,Default,7
+174,STS3,superior temporal sulcus (3),Cortical,Right,641,5128,53.05,-31.88,-0.27,Default,7
+175,STS4,superior temporal sulcus (4),Cortical,Left,642,5136,-56.55,-48.37,13.36,SalVentAttn,4
+176,STS4,superior temporal sulcus (4),Cortical,Right,840,6720,54.61,-45.53,14.61,Default,7
+177,STS5,superior temporal sulcus (5),Cortical,Left,711,5688,-48.12,-58.18,25.79,Default,7
+178,STS5,superior temporal sulcus (5),Cortical,Right,463,3704,51.38,-54.06,21.03,Default,7
+179,T2_1,Middle Temporal Gyrus (1),Cortical,Left,364,2912,-61.21,-11.54,-16.84,Default,7
+180,T2_1,Middle Temporal Gyrus (1),Cortical,Right,214,1712,60.95,-5.47,-21,Default,7
+181,T2_2,Middle Temporal Gyrus (2),Cortical,Left,536,4288,-62.98,-34.34,-12.07,Default,7
+182,T2_2,Middle Temporal Gyrus (2),Cortical,Right,592,4736,63.7,-28.4,-12.8,Cont,6
+183,T2_3,Middle Temporal Gyrus (3),Cortical,Left,266,2128,-60.97,-35.03,-4.8,Default,7
+184,T2_3,Middle Temporal Gyrus (3),Cortical,Right,241,1928,62.34,-30.88,-4.71,Default,7
+185,T2_4,Middle Temporal Gyrus (4),Cortical,Left,496,3968,-53.09,-59.39,7.03,DorsAttn,3
+186,T2_4,Middle Temporal Gyrus (4),Cortical,Right,269,2152,56.8,-53.22,2.97,DorsAttn,3
+187,T3_1,Inferior Temporal Gyrus (1),Cortical,Left,936,7488,-46.57,-15.15,-32.77,Limbic,5
+188,T3_1,Inferior Temporal Gyrus (1),Cortical,Right,1021,8168,45.27,-7.24,-36.53,Limbic,5
+189,T3_2,Inferior Temporal Gyrus (2),Cortical,Left,629,5032,-58.55,-26.07,-23.84,Default,7
+190,T3_2,Inferior Temporal Gyrus (2),Cortical,Right,656,5248,57.81,-22.11,-25.18,Cont,6
+191,T3_3,Inferior Temporal Gyrus (3),Cortical,Left,654,5232,-56.44,-52.94,-13.71,Default,7
+192,T3_3,Inferior Temporal Gyrus (3),Cortical,Right,597,4776,57.39,-46.33,-13.87,DorsAttn,3
+193,T3_4,Inferior Temporal Gyrus (4),Cortical,Left,410,3280,-50.02,-60.63,-7.64,DorsAttn,3
+194,T3_4,Inferior Temporal Gyrus (4),Cortical,Right,226,1808,54.06,-57.86,-10.55,DorsAttn,3
+195,T3_5,Inferior Temporal Gyrus (5),Cortical,Left,136,1088,-45.09,-63.82,5.5,DorsAttn,3
+196,T3_5,Inferior Temporal Gyrus (5),Cortical,Right,138,1104,49.22,-58.33,3.81,DorsAttn,3
+197,poleT1_1,Superior Temporal Pole Gyrus (1),Cortical,Left,363,2904,-35.44,10.61,-23.88,Limbic,5
+198,poleT1_1,Superior Temporal Pole Gyrus (1),Cortical,Right,207,1656,35.51,15.7,-23.94,Limbic,5
+199,poleT1_2,Superior Temporal Pole Gyrus (2),Cortical,Left,201,1608,-42.68,7.63,-16.25,SomMot,2
+200,poleT1_2,Superior Temporal Pole Gyrus (2),Cortical,Right,344,2752,43.98,9.24,-16.45,SomMot,2
+201,poleT2_1,Middle Temporal Pole Gyrus (1),Cortical,Left,861,6888,-45.17,7.21,-33.92,Limbic,5
+202,poleT2_1,Middle Temporal Pole Gyrus (1),Cortical,Right,411,3288,48.13,8.42,-33.15,Limbic,5
+203,poleT2_2,Middle Temporal Pole Gyrus (2),Cortical,Left,46,368,-35.22,8.78,-32.83,Limbic,5
+204,poleT2_2,Middle Temporal Pole Gyrus (2),Cortical,Right,201,1608,34.73,12.52,-33.96,Limbic,5
+205,poleT2_3,Middle Temporal Pole Gyrus (3),Cortical,Left,880,7040,-25.7,5.92,-37.41,Limbic,5
+206,poleT2_3,Middle Temporal Pole Gyrus (3),Cortical,Right,993,7944,26.39,6.49,-35.94,Limbic,5
+207,F1M1,Medial Superior Frontal Gyrus (1),Cortical,Left,381,3048,-7.79,51.61,12.46,Default,7
+208,F1M1,Medial Superior Frontal Gyrus (1),Cortical,Right,364,2912,7.55,52.24,13.42,Default,7
+209,F1M2,Medial Superior Frontal Gyrus (2),Cortical,Left,493,3944,-6.65,53.44,24.7,Default,7
+210,F1M2,Medial Superior Frontal Gyrus (2),Cortical,Right,524,4192,6.7,56.5,25.47,Default,7
+211,F1M3,Medial Superior Frontal Gyrus (3),Cortical,Left,332,2656,-5.33,34.67,43.62,Cont,6
+212,F1M3,Medial Superior Frontal Gyrus (3),Cortical,Right,376,3008,5.55,33.21,44.87,Cont,6
+213,rost,anterior rostral sulcus,Cortical,Left,537,4296,-7.26,47.2,-3.46,Default,7
+214,rost,anterior rostral sulcus,Cortical,Right,387,3096,6.43,47.4,-3.97,Default,7
+215,F2MO1,Medial Orbito-Frontal Gyrus (1),Cortical,Left,265,2120,-9.53,65.47,-2.33,Default,7
+216,F2MO1,Medial Orbito-Frontal Gyrus (1),Cortical,Right,253,2024,6.55,65,-3.42,Default,7
+217,F2MO2,Medial Orbito-Frontal Gyrus (2),Cortical,Left,301,2408,-5.38,49.03,-11.8,Default,7
+218,F2MO2,Medial Orbito-Frontal Gyrus (2),Cortical,Right,275,2200,4.3,46.78,-12.75,Default,7
+219,SCALL,Subcallosal Gyrus,Cortical,Left,244,1952,-6.37,20.84,-16.04,Limbic,5
+220,SCALL,Subcallosal Gyrus,Cortical,Right,239,1912,5.89,20.74,-16.33,Limbic,5
+221,SMA1,Supplementary Motor Area (1),Cortical,Left,161,1288,-6.27,22.25,46.72,Cont,6
+222,SMA1,Supplementary Motor Area (1),Cortical,Right,172,1376,5.86,20.55,49,Cont,6
+223,SMA2,Supplementary Motor Area (2),Cortical,Left,268,2144,-10.56,18.18,63.12,Default,7
+224,SMA2,Supplementary Motor Area (2),Cortical,Right,218,1744,10.54,18.48,62.88,Default,7
+225,SMA3,Supplementary Motor Area (3),Cortical,Left,527,4216,-7.21,7.64,65.58,Default,7
+226,SMA3,Supplementary Motor Area (3),Cortical,Right,275,2200,6.39,10.05,66.47,SalVentAttn,4
+227,cing1,cingulate sulcus (1),Cortical,Left,304,2432,-6.91,27.03,29.99,Default,7
+228,cing1,cingulate sulcus (1),Cortical,Right,287,2296,6.95,26.55,30.97,SalVentAttn,4
+229,cing2,cingulate sulcus (2),Cortical,Left,290,2320,-6.79,15.54,41.57,SalVentAttn,4
+230,cing2,cingulate sulcus (2),Cortical,Right,364,2912,7.55,13.47,47.27,SalVentAttn,4
+231,cing3,cingulate sulcus (3),Cortical,Left,395,3160,-7.39,4.53,48.55,SalVentAttn,4
+232,cing3,cingulate sulcus (3),Cortical,Right,493,3944,7.81,4.69,52.41,SalVentAttn,4
+233,cing4,cingulate sulcus (4),Cortical,Left,576,4608,-7.83,-6.34,57.43,SalVentAttn,4
+234,cing4,cingulate sulcus (4),Cortical,Right,538,4304,8.24,-4.67,57.88,SalVentAttn,4
+235,cing5,cingulate sulcus (5),Cortical,Left,268,2144,-8.46,-16.4,41.65,SalVentAttn,4
+236,cing5,cingulate sulcus (5),Cortical,Right,268,2144,8.87,-15.98,41.93,SalVentAttn,4
+237,cing6,cingulate sulcus (6),Cortical,Left,391,3128,-10.78,-35.4,46.02,SalVentAttn,4
+238,cing6,cingulate sulcus (6),Cortical,Right,374,2992,11.46,-34.04,45.59,SalVentAttn,4
+239,cing7,cingulate sulcus (7),Cortical,Left,271,2168,-9.29,-41.48,60.42,SomMot,2
+240,cing7,cingulate sulcus (7),Cortical,Right,298,2384,9.39,-40.68,61.09,SomMot,2
+241,CINGa1,Anterior Cingulum Gyrus (1),Cortical,Left,431,3448,-5.69,37.33,3.06,Default,7
+242,CINGa1,Anterior Cingulum Gyrus (1),Cortical,Right,584,4672,6.65,39.43,4.52,Default,7
+243,CINGa2,Anterior Cingulum Gyrus (2),Cortical,Left,339,2712,-7.32,34.32,22.06,Default,7
+244,CINGa2,Anterior Cingulum Gyrus (2),Cortical,Right,340,2720,7.29,33.37,22.84,Cont,6
+245,CINGm1,Middle Cingulum Gyrus (1),Cortical,Left,44,352,-3.27,14.27,28.95,SalVentAttn,4
+246,CINGm1,Middle Cingulum Gyrus (1),Cortical,Right,40,320,3.5,13.95,29.05,SalVentAttn,4
+247,CINGm2,Middle Cingulum Gyrus (2),Cortical,Left,67,536,-3.7,3.49,29.52,Cont,6
+248,CINGm2,Middle Cingulum Gyrus (2),Cortical,Right,78,624,4.13,3.74,29.82,Cont,6
+249,CINGm3,Middle Cingulum Gyrus (3),Cortical,Left,213,1704,-3.93,-23.65,38.74,Default,7
+250,CINGm3,Middle Cingulum Gyrus (3),Cortical,Right,273,2184,4.55,-24.96,38.83,SalVentAttn,4
+251,CINGp1,Posterior Cingulum Gyrus (1),Cortical,Left,166,1328,-4.2,-26.02,28.82,Cont,6
+252,CINGp1,Posterior Cingulum Gyrus (1),Cortical,Right,195,1560,4.73,-25.9,28.96,Cont,6
+253,CINGp2,Posterior Cingulum Gyrus (2),Cortical,Left,102,816,-4.29,-39.49,27.37,Default,7
+254,CINGp2,Posterior Cingulum Gyrus (2),Cortical,Right,211,1688,7.53,-43.02,31.35,Default,7
+255,CINGp3,Posterior Cingulum Gyrus (3),Cortical,Left,45,360,-5.07,-42.89,10.04,Default,7
+256,CINGp3,Posterior Cingulum Gyrus (3),Cortical,Right,73,584,5.78,-42.38,10.3,Default,7
+257,pCENT1,Paracentral Lobule (1),Cortical,Left,237,1896,-6.89,-16.76,50.9,SomMot,2
+258,pCENT1,Paracentral Lobule (1),Cortical,Right,312,2496,7.68,-14.74,50.06,SomMot,2
+259,pCENT2,Paracentral Lobule (2),Cortical,Left,496,3968,-10.15,-28.61,65.77,SomMot,2
+260,pCENT2,Paracentral Lobule (2),Cortical,Right,568,4544,10.9,-26.74,66.43,SomMot,2
+261,pCENT3,Paracentral Lobule (3),Cortical,Left,412,3296,-7.16,-26,69.51,SomMot,2
+262,pCENT3,Paracentral Lobule (3),Cortical,Right,419,3352,7.67,-26.74,70.16,SomMot,2
+263,pCENT4,Paracentral Lobule (4),Cortical,Left,248,1984,-6.39,-29.17,75.9,SomMot,2
+264,pCENT4,Paracentral Lobule (4),Cortical,Right,225,1800,7.17,-28.66,75.71,SomMot,2
+265,PRECU1,Precuneus (1),Cortical,Left,427,3416,-11.8,-55.27,13.43,Default,7
+266,PRECU1,Precuneus (1),Cortical,Right,442,3536,12.78,-52.8,13.8,Default,7
+267,PRECU2,Precuneus (2),Cortical,Left,232,1856,-4.98,-56.03,19.11,Default,7
+268,PRECU2,Precuneus (2),Cortical,Right,204,1632,5.01,-55.53,19.8,Default,7
+269,PRECU3,Precuneus (3),Cortical,Left,558,4464,-6.9,-50.87,33.74,Default,7
+270,PRECU3,Precuneus (3),Cortical,Right,397,3176,5.74,-51.85,32.12,Default,7
+271,PRECU4,Precuneus (4),Cortical,Left,296,2368,-6.95,-49.52,45.4,Default,7
+272,PRECU4,Precuneus (4),Cortical,Right,276,2208,7.76,-48.75,43.64,Default,7
+273,PRECU5,Precuneus (5),Cortical,Left,343,2744,-7.67,-54.56,56.22,DorsAttn,3
+274,PRECU5,Precuneus (5),Cortical,Right,375,3000,7.18,-50.01,54.18,DorsAttn,3
+275,PRECU6,Precuneus (6),Cortical,Left,276,2208,-7.41,-61.26,64.06,DorsAttn,3
+276,PRECU6,Precuneus (6),Cortical,Right,305,2440,7.97,-59.91,63.68,DorsAttn,3
+277,PRECU7,Precuneus (7),Cortical,Left,168,1344,-5.86,-64.69,35.68,Default,7
+278,PRECU7,Precuneus (7),Cortical,Right,151,1208,7.17,-62.58,36,Default,7
+279,PRECU8,Precuneus (8),Cortical,Left,369,2952,-6.83,-70.82,41.15,Cont,6
+280,PRECU8,Precuneus (8),Cortical,Right,381,3048,10.52,-68.47,41.07,Cont,6
+281,PRECU9,Precuneus (9),Cortical,Left,231,1848,-10.68,-69.54,49.26,DorsAttn,3
+282,PRECU9,Precuneus (9),Cortical,Right,310,2480,12.71,-68.38,50.3,DorsAttn,3
+283,pos1,parietooccipital sulcus (1),Cortical,Left,469,3752,-12.02,-55.73,7.56,Vis,1
+284,pos1,parietooccipital sulcus (1),Cortical,Right,435,3480,13.11,-54.1,8.5,Vis,1
+285,pos2,parietooccipital sulcus (2),Cortical,Left,130,1040,-13.42,-65.08,25.68,Default,7
+286,pos2,parietooccipital sulcus (2),Cortical,Right,158,1264,15.89,-61.43,26.16,Cont,6
+287,pos3,parietooccipital sulcus (3),Cortical,Left,244,1952,-10.49,-75.19,36.86,Cont,6
+288,pos3,parietooccipital sulcus (3),Cortical,Right,256,2048,14.05,-72.93,37.4,Vis,1
+289,pos4,parietooccipital sulcus (4),Cortical,Left,323,2584,-17.98,-59.57,4.08,Vis,1
+290,pos4,parietooccipital sulcus (4),Cortical,Right,392,3136,20.61,-59.2,6.36,Vis,1
+291,pos5,parietooccipital sulcus (5),Cortical,Left,34,272,-17.76,-70,19.59,Vis,1
+292,pos5,parietooccipital sulcus (5),Cortical,Right,52,416,20.88,-65.58,20.04,Vis,1
+293,pos6,parietooccipital sulcus (6),Cortical,Left,177,1416,-12.53,-75.32,29.32,Vis,1
+294,pos6,parietooccipital sulcus (6),Cortical,Right,178,1424,15.09,-72.51,29.26,Vis,1
+295,CU1,Cuneus (1),Cortical,Left,256,2048,-5.22,-82.66,28.38,Vis,1
+296,CU1,Cuneus (1),Cortical,Right,200,1600,8.67,-80.07,28.73,Vis,1
+297,CU2,Cuneus (2),Cortical,Left,146,1168,-4.14,-91.85,18.7,Vis,1
+298,CU2,Cuneus (2),Cortical,Right,144,1152,7.57,-88.51,19.24,Vis,1
+299,CAL1,Calcarine Gyrus (1),Cortical,Left,540,4320,-10.47,-71.63,9.03,Vis,1
+300,CAL1,Calcarine Gyrus (1),Cortical,Right,517,4136,11.69,-69.38,10.26,Vis,1
+301,CAL2,Calcarine Gyrus (2),Cortical,Left,445,3560,-7.3,-80.67,8.59,Vis,1
+302,CAL2,Calcarine Gyrus (2),Cortical,Right,413,3304,9.52,-77.78,9.37,Vis,1
+303,CAL3,Calcarine Gyrus (3),Cortical,Left,926,7408,-6.68,-95.35,-1.33,Vis,1
+304,CAL3,Calcarine Gyrus (3),Cortical,Right,853,6824,10.82,-94.22,1.1,Vis,1
+305,LING1,Lingual Gyrus (1),Cortical,Left,162,1296,-20.21,-45.32,-4.62,Vis,1
+306,LING1,Lingual Gyrus (1),Cortical,Right,173,1384,19.64,-43.94,-3.9,Vis,1
+307,LING2,Lingual Gyrus (2),Cortical,Left,283,2264,-21.1,-62.46,-6.81,Vis,1
+308,LING2,Lingual Gyrus (2),Cortical,Right,330,2640,20.99,-60.23,-6.01,Vis,1
+309,LING3,Lingual Gyrus (3),Cortical,Left,239,1912,-13.65,-63.56,-3.61,Vis,1
+310,LING3,Lingual Gyrus (3),Cortical,Right,262,2096,12.95,-63.84,-2.16,Vis,1
+311,LING4,Lingual Gyrus (4),Cortical,Left,38,304,-14.11,-75.68,-10.11,Vis,1
+312,LING4,Lingual Gyrus (4),Cortical,Right,39,312,13.03,-72.41,-9.33,Vis,1
+313,LING5,Lingual Gyrus (5),Cortical,Left,140,1120,-10.99,-81.26,-9.01,Vis,1
+314,LING5,Lingual Gyrus (5),Cortical,Right,83,664,10.94,-79.4,-7.08,Vis,1
+315,LING6,Lingual Gyrus (6),Cortical,Left,161,1288,-6.26,-80.41,-4.65,Vis,1
+316,LING6,Lingual Gyrus (6),Cortical,Right,146,1168,6.66,-78.86,-3.36,Vis,1
+321,pHIPP1,ParaHippocampal Gyrus (1),Cortical,Left,231,1848,-15.72,-4.03,-18.36,Limbic,5
+322,pHIPP1,ParaHippocampal Gyrus (1),Cortical,Right,211,1688,14.13,-3.68,-17.84,Limbic,5
+323,pHIPP2,ParaHippocampal Gyrus (2),Cortical,Left,329,2632,-27.64,-26.64,-18.75,Vis,1
+324,pHIPP2,ParaHippocampal Gyrus (2),Cortical,Right,301,2408,28.61,-24.74,-18.63,Vis,1
+325,pHIPP3,ParaHippocampal Gyrus (3),Cortical,Left,94,752,-17.55,-12.62,-30.23,Limbic,5
+326,pHIPP3,ParaHippocampal Gyrus (3),Cortical,Right,128,1024,18.09,-14.34,-28.52,Limbic,5
+327,pHIPP4,ParaHippocampal Gyrus (4),Cortical,Left,259,2072,-17.16,-27.37,-12.81,Vis,1
+328,pHIPP4,ParaHippocampal Gyrus (4),Cortical,Right,321,2568,16.69,-27.39,-10.05,Vis,1
+329,pHIPP5,ParaHippocampal Gyrus (5),Cortical,Left,387,3096,-27.07,-39.59,-10.86,Vis,1
+330,pHIPP5,ParaHippocampal Gyrus (5),Cortical,Right,341,2728,27.17,-35.99,-11.93,Vis,1
+331,FUS1,Fusiform Gyrus (1),Cortical,Left,1013,8104,-31.55,-8.77,-34.09,Limbic,5
+332,FUS1,Fusiform Gyrus (1),Cortical,Right,1109,8872,31.52,-7.78,-34.67,Limbic,5
+333,FUS2,Fusiform Gyrus (2),Cortical,Left,149,1192,-35.41,-25.62,-23.11,Limbic,5
+334,FUS2,Fusiform Gyrus (2),Cortical,Right,172,1376,37.92,-24.5,-23.83,Limbic,5
+335,FUS3,Fusiform Gyrus (3),Cortical,Left,347,2776,-36.58,-32.23,-23.75,Vis,1
+336,FUS3,Fusiform Gyrus (3),Cortical,Right,390,3120,37.37,-31.29,-23.63,Limbic,5
+337,FUS4,Fusiform Gyrus (4),Cortical,Left,458,3664,-43.13,-49.79,-17.41,DorsAttn,3
+338,FUS4,Fusiform Gyrus (4),Cortical,Right,375,3000,44.13,-46.04,-17.75,DorsAttn,3
+339,FUS5,Fusiform Gyrus (5),Cortical,Left,96,768,-31.48,-50.4,-12.44,Vis,1
+340,FUS5,Fusiform Gyrus (5),Cortical,Right,150,1200,32.39,-46.73,-11.32,Vis,1
+341,FUS6,Fusiform Gyrus (6),Cortical,Left,443,3544,-28.15,-65.99,-9.52,Vis,1
+342,FUS6,Fusiform Gyrus (6),Cortical,Right,486,3888,29.01,-61.67,-9.48,Vis,1
+343,FUS7,Fusiform Gyrus (7),Cortical,Left,266,2128,-23.09,-84.02,-10.33,Vis,1
+344,FUS7,Fusiform Gyrus (7),Cortical,Right,243,1944,22.89,-80.45,-8.35,Vis,1
+317,HIPP1,Hippocampus (1),Subcortical,Left,463,3704,-30.29,-7.03,-19.4,Limbic,5
+318,HIPP1,Hippocampus (1),Subcortical,Right,424,3392,30.03,-4.97,-18.45,Limbic,5
+319,HIPP2,Hippocampus (2),Subcortical,Left,437,3496,-24.94,-32.46,-2.69,,
+320,HIPP2,Hippocampus (2),Subcortical,Right,485,3880,25.01,-31.37,-1.99,Vis,1
+345,AMYG,Amygdala,Subcortical,Left,212,1696,-21.93,-0.41,-11.5,,
+346,AMYG,Amygdala,Subcortical,Right,197,1576,21.13,1.65,-12.28,,
+347,CAUD1,Caudate nucleus (1),Subcortical,Left,40,320,-11.5,21.85,1.05,,
+348,CAUD1,Caudate nucleus (1),Subcortical,Right,33,264,11.21,22.85,-1.21,,
+349,CAUD2,Caudate nucleus (2),Subcortical,Left,30,240,-14.4,26.13,0.2,,
+350,CAUD2,Caudate nucleus (2),Subcortical,Right,43,344,15.67,27.77,1.81,,
+351,CAUD3,Caudate nucleus (3),Subcortical,Left,337,2696,-12.3,13.69,-8.21,Limbic,5
+352,CAUD3,Caudate nucleus (3),Subcortical,Right,318,2544,11.71,14.54,-7.62,Limbic,5
+353,CAUD4,Caudate nucleus (4),Subcortical,Left,132,1056,-15.36,11.24,12.2,,
+354,CAUD4,Caudate nucleus (4),Subcortical,Right,143,1144,14.21,19.92,8.2,,
+355,CAUD5,Caudate nucleus (5),Subcortical,Left,354,2832,-12.92,9.78,8.27,,
+356,CAUD5,Caudate nucleus (5),Subcortical,Right,302,2416,12.43,10.01,8.79,,
+357,CAUD6,Caudate nucleus (6),Subcortical,Left,122,976,-16,3.51,18.66,,
+358,CAUD6,Caudate nucleus (6),Subcortical,Right,157,1256,15.12,6.52,17.54,,
+359,CAUD7,Caudate nucleus (7),Subcortical,Left,58,464,-18.41,-12.31,25.28,,
+360,CAUD7,Caudate nucleus (7),Subcortical,Right,155,1240,16.98,-7.59,23.86,,
+361,PALL,Pallidum,Subcortical,Left,132,1056,-18.64,-8.15,-0.52,,
+362,PALL,Pallidum,Subcortical,Right,85,680,18.96,-6.92,-0.59,,
+363,PUT2,Putamen (2),Subcortical,Left,640,5120,-23.3,6.26,0.78,,
+364,PUT2,Putamen (2),Subcortical,Right,626,5008,23.23,7.35,0.77,,
+365,PUT3,Putamen (3),Subcortical,Left,704,5632,-28.01,-6.26,1.77,SalVentAttn,4
+366,PUT3,Putamen (3),Subcortical,Right,745,5960,28.53,-4.1,0.86,SalVentAttn,4
+367,THA1,Thalamus (1),Subcortical,Left,81,648,-4.27,0.27,1.43,,
+368,THA1,Thalamus (1),Subcortical,Right,67,536,3.61,0.39,1.4,,
+369,THA2,Thalamus (2),Subcortical,Left,218,1744,-9.09,-8.55,12.95,,
+370,THA2,Thalamus (2),Subcortical,Right,222,1776,8.54,-7.45,12.51,,
+371,THA3,Thalamus (3),Subcortical,Left,29,232,-3.31,-7.45,-1.1,,
+372,THA3,Thalamus (3),Subcortical,Right,23,184,2.78,-7.04,-1.13,,
+373,THA4,Thalamus (4),Subcortical,Left,87,696,-3.22,-14.39,8.41,,
+374,THA4,Thalamus (4),Subcortical,Right,96,768,3.29,-14.46,8.94,,
+375,THA5,Thalamus (5),Subcortical,Left,630,5040,-12.41,-18.97,7.01,,
+376,THA5,Thalamus (5),Subcortical,Right,577,4616,12.66,-17.47,6.4,,
+377,THA6,Thalamus (6),Subcortical,Left,120,960,-15.05,-28.28,13.55,,
+378,THA6,Thalamus (6),Subcortical,Right,160,1280,14.55,-26.51,12.73,,
+379,THA7,Thalamus (7),Subcortical,Left,30,240,-8.87,-28.07,10.67,,
+380,THA7,Thalamus (7),Subcortical,Right,37,296,8.76,-26.49,9.78,,
+381,THA8,Thalamus (8),Subcortical,Left,44,352,-4.91,-26.27,14.05,,
+382,THA8,Thalamus (8),Subcortical,Right,30,240,3.53,-25.33,13.13,,
+383,THA9,Thalamus (9),Subcortical,Left,276,2208,-5.39,-10.71,-7.31,,
+384,THA9,Thalamus (9),Subcortical,Right,219,1752,4.79,-10.27,-6.44,,

@@ -1,0 +1,385 @@
+Abbreviation,Region,SENSAAS,WMCA,HAMOTA,ALANs,SENSAAS_numeric,WMCA_numeric,HAMOTA_numeric,ALANs_numeric,Structure,Hemisphere,Index,Xmm,Ymm,Zmm,Number_of_Voxels,Volume_mm3,Region_Color_HEX,Region_Color_RGB
+AG1,Angular Gyrus (1),,,,,,,,,Cortical,Left,101,-47.97,-57.21,43.71,597,4776, #b03177,176|49|119
+AG1,Angular Gyrus (1),,,,,,,,,Cortical,Right,102,50.50,-52.29,42.51,541,4328, #b03177,176|49|119
+AG2,Angular Gyrus (2),SENT_CORE,,,,3,,,,Cortical,Left,103,-37.54,-70.44,39.47,519,4152, #f5cb36,245|203|54
+AG2,Angular Gyrus (2),,,,,,,,,Cortical,Right,104,44.50,-62.37,36.28,555,4440, #f5cb36,245|203|54
+AG3,Angular Gyrus (3),,,,,,,,,Cortical,Left,105,-42.63,-70.64,27.04,308,2464, #fe7340,254|115|64
+AG3,Angular Gyrus (3),,,,,,,,,Cortical,Right,106,47.01,-62.95,24.71,277,2216, #fe7340,254|115|64
+AMYG,Amygdala,SENT_VISU,,,,1,,,,Subcortical,Left,345,-21.93,-0.41,-11.50,212,1696, #3d41d4,61|65|212
+AMYG,Amygdala,,WORD_LIST_CONTROL,,,,1,,,Subcortical,Right,346,21.13,1.65,-12.28,197,1576, #3d41d4,61|65|212
+CAL1,Calcarine Gyrus (1),,,,,,,,,Cortical,Left,299,-10.47,-71.63,9.03,540,4320, #52914e,82|145|78
+CAL1,Calcarine Gyrus (1),,,,,,,,,Cortical,Right,300,11.69,-69.38,10.26,517,4136, #52914e,82|145|78
+CAL2,Calcarine Gyrus (2),,,,,,,,,Cortical,Left,301,-7.30,-80.67,8.59,445,3560, #cf99e3,207|153|227
+CAL2,Calcarine Gyrus (2),,,,VISU,,,,1,Cortical,Right,302,9.52,-77.78,9.37,413,3304, #cf99e3,207|153|227
+CAL3,Calcarine Gyrus (3),,,,,,,,,Cortical,Left,303,-6.68,-95.35,-1.33,926,7408, #42b47d,66|180|125
+CAL3,Calcarine Gyrus (3),,,,VISU,,,,1,Cortical,Right,304,10.82,-94.22,1.10,853,6824, #42b47d,66|180|125
+CAUD1,Caudate nucleus (1),,,,,,,,,Subcortical,Left,347,-11.50,21.85,1.05,40,320, #dcd043,220|208|67
+CAUD1,Caudate nucleus (1),,,,,,,,,Subcortical,Right,348,11.21,22.85,-1.21,33,264, #dcd043,220|208|67
+CAUD2,Caudate nucleus (2),,,,,,,,,Subcortical,Left,349,-14.40,26.13,0.20,30,240, #febbcf,254|187|207
+CAUD2,Caudate nucleus (2),,,,,,,,,Subcortical,Right,350,15.67,27.77,1.81,43,344, #febbcf,254|187|207
+CAUD3,Caudate nucleus (3),,,,,,,,,Subcortical,Left,351,-12.30,13.69,-8.21,337,2696, #edd2a1,237|210|161
+CAUD3,Caudate nucleus (3),,,,,,,,,Subcortical,Right,352,11.71,14.54,-7.62,318,2544, #edd2a1,237|210|161
+CAUD4,Caudate nucleus (4),,,,,,,,,Subcortical,Left,353,-15.36,11.24,12.20,132,1056, #93b788,147|183|136
+CAUD4,Caudate nucleus (4),,,,,,,,,Subcortical,Right,354,14.21,19.92,8.20,143,1144, #93b788,147|183|136
+CAUD5,Caudate nucleus (5),,,,,,,,,Subcortical,Left,355,-12.92,9.78,8.27,354,2832, #2bbdcd,43|189|205
+CAUD5,Caudate nucleus (5),,,,,,,,,Subcortical,Right,356,12.43,10.01,8.79,302,2416, #2bbdcd,43|189|205
+CAUD6,Caudate nucleus (6),,,,,,,,,Subcortical,Left,357,-16.00,3.51,18.66,122,976, #68c2a4,104|194|164
+CAUD6,Caudate nucleus (6),,,,,,,,,Subcortical,Right,358,15.12,6.52,17.54,157,1256, #68c2a4,104|194|164
+CAUD7,Caudate nucleus (7),,,,,,,,,Subcortical,Left,359,-18.41,-12.31,25.28,58,464, #fe990a,254|153|10
+CAUD7,Caudate nucleus (7),,,,,,,,,Subcortical,Right,360,16.98,-7.59,23.86,155,1240, #fe990a,254|153|10
+cing1,cingulate sulcus (1),,,,,,,,,Cortical,Left,227,-6.91,27.03,29.99,304,2432, #24cccd,36|204|205
+cing1,cingulate sulcus (1),,,,TemporoFrontal,,,,4,Cortical,Right,228,6.95,26.55,30.97,287,2296, #24cccd,36|204|205
+cing2,cingulate sulcus (2),,,,,,,,,Cortical,Left,229,-6.79,15.54,41.57,290,2320, #f9b5e8,249|181|232
+cing2,cingulate sulcus (2),,,,TemporoFrontal,,,,4,Cortical,Right,230,7.55,13.47,47.27,364,2912, #f9b5e8,249|181|232
+cing3,cingulate sulcus (3),,,,,,,,,Cortical,Right,232,7.81,4.69,52.41,493,3944, #f31940,243|25|64
+cing3,cingulate sulcus (3),,WORD_LIST_CORE,,,,2,,,Cortical,Left,231,-7.39,4.53,48.55,395,3160, #f31940,243|25|64
+cing4,cingulate sulcus (4),,WORD_LIST_CORE,HAMOTA,SomatoMotor,,2,1,2,Cortical,Left,233,-7.83,-6.34,57.43,576,4608, #4c6dad,76|109|173
+cing4,cingulate sulcus (4),,,HAMOTA,,,,1,,Cortical,Right,234,8.24,-4.67,57.88,538,4304, #4c6dad,76|109|173
+cing5,cingulate sulcus (5),,,,,,,,,Cortical,Right,236,8.87,-15.98,41.93,268,2144, #50965c,80|150|92
+cing5,cingulate sulcus (5),,WORD_LIST_CORE,,SomatoMotor,,2,,2,Cortical,Left,235,-8.46,-16.40,41.65,268,2144, #50965c,80|150|92
+cing6,cingulate sulcus (6),,,,,,,,,Cortical,Left,237,-10.78,-35.40,46.02,391,3128, #50f4da,80|244|218
+cing6,cingulate sulcus (6),,,,,,,,,Cortical,Right,238,11.46,-34.04,45.59,374,2992, #50f4da,80|244|218
+cing7,cingulate sulcus (7),,,,SomatoMotor,,,,2,Cortical,Left,239,-9.29,-41.48,60.42,271,2168, #15ba9a,21|186|154
+cing7,cingulate sulcus (7),,,,,,,,,Cortical,Right,240,9.39,-40.68,61.09,298,2384, #15ba9a,21|186|154
+CINGa1,Anterior Cingulum Gyrus (1),,,,,,,,,Cortical,Left,241,-5.69,37.33,3.06,431,3448, #4dfbfb,77|251|251
+CINGa1,Anterior Cingulum Gyrus (1),,,,,,,,,Cortical,Right,242,6.65,39.43,4.52,584,4672, #4dfbfb,77|251|251
+CINGa2,Anterior Cingulum Gyrus (2),,,,,,,,,Cortical,Left,243,-7.32,34.32,22.06,339,2712, #65edf6,101|237|246
+CINGa2,Anterior Cingulum Gyrus (2),,,,TemporoFrontal,,,,4,Cortical,Right,244,7.29,33.37,22.84,340,2720, #65edf6,101|237|246
+CINGm1,Middle Cingulum Gyrus (1),,,,,,,,,Cortical,Left,245,-3.27,14.27,28.95,44,352, #cd57a2,205|87|162
+CINGm1,Middle Cingulum Gyrus (1),,,,,,,,,Cortical,Right,246,3.50,13.95,29.05,40,320, #cd57a2,205|87|162
+CINGm2,Middle Cingulum Gyrus (2),,,,,,,,,Cortical,Left,247,-3.70,3.49,29.52,67,536, #f8a2cd,248|162|205
+CINGm2,Middle Cingulum Gyrus (2),,,,,,,,,Cortical,Right,248,4.13,3.74,29.82,78,624, #f8a2cd,248|162|205
+CINGm3,Middle Cingulum Gyrus (3),,,,,,,,,Cortical,Left,249,-3.93,-23.65,38.74,213,1704, #83d377,131|211|119
+CINGm3,Middle Cingulum Gyrus (3),,,,,,,,,Cortical,Right,250,4.55,-24.96,38.83,273,2184, #83d377,131|211|119
+CINGp1,Posterior Cingulum Gyrus (1),,,,,,,,,Cortical,Left,251,-4.20,-26.02,28.82,166,1328, #e82a84,232|42|132
+CINGp1,Posterior Cingulum Gyrus (1),,,,PosteriorMedial,,,,3,Cortical,Right,252,4.73,-25.90,28.96,195,1560, #e82a84,232|42|132
+CINGp2,Posterior Cingulum Gyrus (2),,,,,,,,,Cortical,Left,253,-4.29,-39.49,27.37,102,816, #cd2c37,205|44|55
+CINGp2,Posterior Cingulum Gyrus (2),,,,,,,,,Cortical,Right,254,7.53,-43.02,31.35,211,1688, #cd2c37,205|44|55
+CINGp3,Posterior Cingulum Gyrus (3),SENT_MEM,,,,2,,,,Cortical,Left,255,-5.07,-42.89,10.04,45,360, #9a3b97,154|59|151
+CINGp3,Posterior Cingulum Gyrus (3),,,,,,,,,Cortical,Right,256,5.78,-42.38,10.30,73,584, #9a3b97,154|59|151
+CU1,Cuneus (1),,,,,,,,,Cortical,Right,296,8.67,-80.07,28.73,200,1600, #b1ea0b,177|234|11
+CU1,Cuneus (1),,WORD_LIST_CORE,,,,2,,,Cortical,Left,295,-5.22,-82.66,28.38,256,2048, #b1ea0b,177|234|11
+CU2,Cuneus (2),,,,,,,,,Cortical,Left,297,-4.14,-91.85,18.70,146,1168, #cb8150,203|129|80
+CU2,Cuneus (2),,,,,,,,,Cortical,Right,298,7.57,-88.51,19.24,144,1152, #cb8150,203|129|80
+f1_1,superior frontal sulcus (1),,,,,,,,,Cortical,Left,7,-22.02,61.48,-8.25,267,2136, #2fef0e,47|239|14
+f1_1,superior frontal sulcus (1),,,,,,,,,Cortical,Right,8,20.25,62.74,-5.59,620,4960, #2fef0e,47|239|14
+f1_2,superior frontal sulcus (2),,,,,,,,,Cortical,Left,9,-27.22,55.62,1.36,783,6264, #fe4833,254|72|51
+f1_2,superior frontal sulcus (2),,,,ParietoFrontal,,,,5,Cortical,Right,10,28.24,56.41,7.22,604,4832, #fe4833,254|72|51
+f1_3,superior frontal sulcus (3),,,,,,,,,Cortical,Left,11,-25.62,42.78,29.54,659,5272, #ea2a92,234|42|146
+f1_3,superior frontal sulcus (3),,,,,,,,,Cortical,Right,12,24.89,45.07,29.01,655,5240, #ea2a92,234|42|146
+f1_4,superior frontal sulcus (4),,,,,,,,,Cortical,Left,13,-23.01,29.26,48.03,980,7840, #b98124,185|129|36
+f1_4,superior frontal sulcus (4),,,,,,,,,Cortical,Right,14,19.91,35.52,48.43,423,3384, #b98124,185|129|36
+f1_5,superior frontal sulcus (5),,,,,,,,,Cortical,Left,15,-27.14,10.77,56.57,611,4888, #9dd36b,157|211|107
+f1_5,superior frontal sulcus (5),,,,,,,,,Cortical,Right,16,27.18,16.82,52.21,1035,8280, #9dd36b,157|211|107
+f1_6,superior frontal sulcus (6),,,,,,,,,Cortical,Left,17,-23.73,0.28,58.99,608,4864, #c063b9,192|99|185
+f1_6,superior frontal sulcus (6),,,,,,,,,Cortical,Right,18,23.24,2.15,59.55,528,4224, #c063b9,192|99|185
+f2_1,inferior frontal sulcus (1),,,,,,,,,Cortical,Left,29,-44.24,38.32,11.74,585,4680, #c9fe5f,201|254|95
+f2_1,inferior frontal sulcus (1),,,,ParietoFrontal,,,,5,Cortical,Right,30,46.38,39.59,9.88,281,2248, #c9fe5f,201|254|95
+f2_2,inferior frontal sulcus (2),SENT_CORE,,,,3,,,,Cortical,Left,31,-43.11,14.84,29.41,1116,8928, #c0d1ed,192|209|237
+f2_2,inferior frontal sulcus (2),,,,ParietoFrontal,,,,5,Cortical,Right,32,43.94,18.51,28.38,1138,9104, #c0d1ed,192|209|237
+F1_1,Superior Frontal Gyrus (1),,,,,,,,,Cortical,Left,1,-15.99,64.94,13.08,139,1112, #85c990,133|201|144
+F1_1,Superior Frontal Gyrus (1),,,,,,,,,Cortical,Right,2,12.88,67.68,10.64,25,200, #85c990,133|201|144
+F1_2,Superior Frontal Gyrus (2),SENT_CORE,,,,3,,,,Cortical,Left,3,-11.88,46.49,41.42,1108,8864, #91e77a,145|231|122
+F1_2,Superior Frontal Gyrus (2),,,,,,,,,Cortical,Right,4,12.02,45.06,41.82,1168,9344, #91e77a,145|231|122
+F1_3,Superior Frontal Gyrus (3),,,,,,,,,Cortical,Left,5,-19.79,16.21,63.44,57,456, #c48c11,196|140|17
+F1_3,Superior Frontal Gyrus (3),,,,,,,,,Cortical,Right,6,19.41,17.20,60.69,102,816, #c48c11,196|140|17
+F1M1,Medial Superior Frontal Gyrus (1),,,,,,,,,Cortical,Left,207,-7.79,51.61,12.46,381,3048, #8642dd,134|66|221
+F1M1,Medial Superior Frontal Gyrus (1),,,,,,,,,Cortical,Right,208,7.55,52.24,13.42,364,2912, #8642dd,134|66|221
+F1M2,Medial Superior Frontal Gyrus (2),,,,,,,,,Cortical,Left,209,-6.65,53.44,24.70,493,3944, #7e96a2,126|150|162
+F1M2,Medial Superior Frontal Gyrus (2),,,,,,,,,Cortical,Right,210,6.70,56.50,25.47,524,4192, #7e96a2,126|150|162
+F1M3,Medial Superior Frontal Gyrus (3),,,,,,,,,Cortical,Left,211,-5.33,34.67,43.62,332,2656, #c266e2,194|102|226
+F1M3,Medial Superior Frontal Gyrus (3),,,,ParietoFrontal,,,,5,Cortical,Right,212,5.55,33.21,44.87,376,3008, #c266e2,194|102|226
+F1O,Superior Orbito-Frontal Gyrus,,,,,,,,,Cortical,Left,35,-12.43,52.19,-20.10,421,3368, #4966d6,73|102|214
+F1O,Superior Orbito-Frontal Gyrus,,,,,,,,,Cortical,Right,36,12.46,50.19,-21.00,389,3112, #4966d6,73|102|214
+F2_1,Middle Frontal Gyrus (1),,,,,,,,,Cortical,Left,19,-39.98,41.11,19.53,272,2176, #eaee7c,234|238|124
+F2_1,Middle Frontal Gyrus (1),,,,ParietoFrontal,,,,5,Cortical,Right,20,41.31,44.34,13.44,516,4128, #eaee7c,234|238|124
+F2_2,Middle Frontal Gyrus (2),,,,,,,,,Cortical,Left,21,-32.79,44.31,25.82,777,6216, #71ca55,113|202|85
+F2_2,Middle Frontal Gyrus (2),,,,,,,,,Cortical,Right,22,31.70,45.23,27.25,697,5576, #71ca55,113|202|85
+F2_3,Middle Frontal Gyrus (3),,,,,,,,,Cortical,Left,23,-39.03,31.01,35.93,146,1168, #3e7e80,62|126|128
+F2_3,Middle Frontal Gyrus (3),,,,,,,,,Cortical,Right,24,37.31,33.04,35.04,295,2360, #3e7e80,62|126|128
+F2_4,Middle Frontal Gyrus (4),,,,,,,,,Cortical,Left,25,-37.82,19.41,47.37,535,4280, #d0f013,208|240|19
+F2_4,Middle Frontal Gyrus (4),,,,,,,,,Cortical,Right,26,38.83,21.57,46.44,424,3392, #d0f013,208|240|19
+F2_5,Middle Frontal Gyrus (5),,,,,,,,,Cortical,Left,27,-43.24,19.84,37.07,245,1960, #709d70,112|157|112
+F2_5,Middle Frontal Gyrus (5),,,,ParietoFrontal,,,,5,Cortical,Right,28,41.86,17.31,41.44,527,4216, #709d70,112|157|112
+F2MO1,Medial Orbito-Frontal Gyrus (1),,,,,,,,,Cortical,Left,215,-9.53,65.47,-2.33,265,2120, #25ff2e,37|255|46
+F2MO1,Medial Orbito-Frontal Gyrus (1),,,,,,,,,Cortical,Right,216,6.55,65.00,-3.42,253,2024, #25ff2e,37|255|46
+F2MO2,Medial Orbito-Frontal Gyrus (2),,,,,,,,,Cortical,Left,217,-5.38,49.03,-11.80,301,2408, #63df4f,99|223|79
+F2MO2,Medial Orbito-Frontal Gyrus (2),,,,,,,,,Cortical,Right,218,4.30,46.78,-12.75,275,2200, #63df4f,99|223|79
+F2O1,Middle Orbito-Frontal Gyrus (1),,,,,,,,,Cortical,Left,37,-35.01,56.82,-7.71,105,840, #d9d192,217|209|146
+F2O1,Middle Orbito-Frontal Gyrus (1),,,,ParietoFrontal,,,,5,Cortical,Right,38,36.48,56.70,-6.21,178,1424, #d9d192,217|209|146
+F2O2,Middle Orbito-Frontal Gyrus (2),,,,,,,,,Cortical,Left,39,-41.05,48.99,-5.31,505,4040, #f37c8f,243|124|143
+F2O2,Middle Orbito-Frontal Gyrus (2),,,,ParietoFrontal,,,,5,Cortical,Right,40,39.72,50.22,-4.43,370,2960, #f37c8f,243|124|143
+F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),SENT_CORE,,,,3,,,,Cortical,Left,41,-42.18,30.53,-16.87,180,1440, #c6138c,198|19|140
+F3O1,Inferior Frontal Gyrus : Pars Orbitalis (1),,,,TemporoFrontal,,,,4,Cortical,Right,42,44.22,33.02,-14.43,264,2112, #c6138c,198|19|140
+F3O2,Inferior Frontal Gyrus : Pars Orbitalis (2),,,,,,,,,Cortical,Left,43,-21.25,22.59,-20.74,557,4456, #bbd3af,187|211|175
+F3O2,Inferior Frontal Gyrus : Pars Orbitalis (2),,,,,,,,,Cortical,Right,44,21.03,22.38,-19.69,509,4072, #bbd3af,187|211|175
+F3t,Inferior Frontal Gyrus : Pars Triangularis,SENT_CORE,,,,3,,,,Cortical,Left,33,-49.44,25.56,4.68,1289,10312, #fc44d8,252|68|216
+F3t,Inferior Frontal Gyrus : Pars Triangularis,,,,TemporoFrontal,,,,4,Cortical,Right,34,49.83,28.54,5.02,967,7736, #fc44d8,252|68|216
+FUS1,Fusiform Gyrus (1),,,,,,,,,Cortical,Left,331,-31.55,-8.77,-34.09,1013,8104, #da2cb3,218|44|179
+FUS1,Fusiform Gyrus (1),,,,,,,,,Cortical,Right,332,31.52,-7.78,-34.67,1109,8872, #da2cb3,218|44|179
+FUS2,Fusiform Gyrus (2),,,,,,,,,Cortical,Left,333,-35.41,-25.62,-23.11,149,1192, #4dc2f9,77|194|249
+FUS2,Fusiform Gyrus (2),,,,,,,,,Cortical,Right,334,37.92,-24.50,-23.83,172,1376, #4dc2f9,77|194|249
+FUS3,Fusiform Gyrus (3),,,,,,,,,Cortical,Left,335,-36.58,-32.23,-23.75,347,2776, #6aa84d,106|168|77
+FUS3,Fusiform Gyrus (3),,,,,,,,,Cortical,Right,336,37.37,-31.29,-23.63,390,3120, #6aa84d,106|168|77
+FUS4,Fusiform Gyrus (4),SENT_VISU,,,,1,,,,Cortical,Left,337,-43.13,-49.79,-17.41,458,3664, #b48d92,180|141|146
+FUS4,Fusiform Gyrus (4),,,,PosteriorMedial,,,,3,Cortical,Right,338,44.13,-46.04,-17.75,375,3000, #b48d92,180|141|146
+FUS5,Fusiform Gyrus (5),,,,,,,,,Cortical,Left,339,-31.48,-50.40,-12.44,96,768, #8b7056,139|112|86
+FUS5,Fusiform Gyrus (5),,,,PosteriorMedial,,,,3,Cortical,Right,340,32.39,-46.73,-11.32,150,1200, #8b7056,139|112|86
+FUS6,Fusiform Gyrus (6),,,,,,,,,Cortical,Left,341,-28.15,-65.99,-9.52,443,3544, #9e7dba,158|125|186
+FUS6,Fusiform Gyrus (6),,,,VISU,,,,1,Cortical,Right,342,29.01,-61.67,-9.48,486,3888, #9e7dba,158|125|186
+FUS7,Fusiform Gyrus (7),,,,,,,,,Cortical,Left,343,-23.09,-84.02,-10.33,266,2128, #b7366c,183|54|108
+FUS7,Fusiform Gyrus (7),,,,VISU,,,,1,Cortical,Right,344,22.89,-80.45,-8.35,243,1944, #b7366c,183|54|108
+HIPP1,Hippocampus (1),,,,,,,,,Subcortical,Left,317,-30.29,-7.03,-19.40,463,3704, #bcab79,188|171|121
+HIPP1,Hippocampus (1),,,,,,,,,Subcortical,Right,318,30.03,-4.97,-18.45,424,3392, #bcab79,188|171|121
+HIPP2,Hippocampus (2),SENT_MEM,,,,2,,,,Subcortical,Left,319,-24.94,-32.46,-2.69,437,3496, #f5277c,245|39|124
+HIPP2,Hippocampus (2),,,,PosteriorMedial,,,,3,Subcortical,Right,320,25.01,-31.37,-1.99,485,3880, #f5277c,245|39|124
+INSa1,Anterior Insula (1),SENT_VISU,,,,1,,,,Cortical,Left,145,-20.34,4.95,-19.33,252,2016, #32bff9,50|191|249
+INSa1,Anterior Insula (1),,,,,,,,,Cortical,Right,146,19.35,7.05,-19.07,317,2536, #32bff9,50|191|249
+INSa2,Anterior Insula (2),SENT_CORE,,,,3,,,,Cortical,Left,147,-33.79,16.79,-12.74,399,3192, #d9bcef,217|188|239
+INSa2,Anterior Insula (2),,,,TemporoFrontal,,,,4,Cortical,Right,148,34.70,18.47,-12.73,273,2184, #d9bcef,217|188|239
+INSa3,Anterior Insula (3),SENT_CORE,,,,3,,,,Cortical,Left,149,-33.74,23.68,0.58,469,3752, #dd5b67,221|91|103
+INSa3,Anterior Insula (3),,,,TemporoFrontal,,,,4,Cortical,Right,150,36.80,24.21,-0.33,721,5768, #dd5b67,221|91|103
+INSa4,Anterior Insula (4),,,,,,,,,Cortical,Left,151,-40.75,15.15,2.63,734,5872, #b0fc0b,176|252|11
+INSa4,Anterior Insula (4),,,,TemporoFrontal,,,,4,Cortical,Right,152,40.81,14.51,4.09,593,4744, #b0fc0b,176|252|11
+INSa5,Anterior Insula (5),,,,,,,,,Cortical,Left,153,-41.78,-0.93,-8.00,593,4744, #e6a265,230|162|101
+INSa5,Anterior Insula (5),,,,,,,,,Cortical,Right,154,41.85,1.86,-8.75,591,4728, #e6a265,230|162|101
+INSp,Posterior Insula,,,HAMOTA,SomatoMotor,,,1,2,Cortical,Left,155,-42.08,-19.10,13.71,923,7384, #bb683d,187|104|61
+INSp,Posterior Insula,,,HAMOTA,,,,1,,Cortical,Right,156,40.61,-19.46,14.31,858,6864, #bb683d,187|104|61
+ios,intraoccipital sulcus,,,,,,,,,Cortical,Left,115,-23.92,-71.72,32.44,50,400, #53d40c,83|212|12
+ios,intraoccipital sulcus,,,,PosteriorMedial,,,,3,Cortical,Right,116,27.83,-69.38,33.29,48,384, #53d40c,83|212|12
+ips1,intraparietal sulcus (1),,,,,,,,,Cortical,Left,109,-41.40,-42.51,49.11,413,3304, #5ee83d,94|232|61
+ips1,intraparietal sulcus (1),,,,,,,,,Cortical,Right,110,40.00,-40.15,51.10,637,5096, #5ee83d,94|232|61
+ips2,intraparietal sulcus (2),,,,,,,,,Cortical,Left,111,-34.12,-58.30,46.21,832,6656, #8bd2dc,139|210|220
+ips2,intraparietal sulcus (2),,,,ParietoFrontal,,,,5,Cortical,Right,112,37.42,-52.40,48.36,719,5752, #8bd2dc,139|210|220
+ips3,intraparietal sulcus (3),,,,,,,,,Cortical,Left,113,-26.94,-59.80,44.38,761,6088, #356ff4,53|111|244
+ips3,intraparietal sulcus (3),,,,PosteriorMedial,,,,3,Cortical,Right,114,26.41,-61.67,46.28,771,6168, #356ff4,53|111|244
+LING1,Lingual Gyrus (1),,,,,,,,,Cortical,Left,305,-20.21,-45.32,-4.62,162,1296, #f38439,243|132|57
+LING1,Lingual Gyrus (1),,,,PosteriorMedial,,,,3,Cortical,Right,306,19.64,-43.94,-3.90,173,1384, #f38439,243|132|57
+LING2,Lingual Gyrus (2),,,,,,,,,Cortical,Left,307,-21.10,-62.46,-6.81,283,2264, #aa94e2,170|148|226
+LING2,Lingual Gyrus (2),,,,VISU,,,,1,Cortical,Right,308,20.99,-60.23,-6.01,330,2640, #aa94e2,170|148|226
+LING3,Lingual Gyrus (3),,,,,,,,,Cortical,Left,309,-13.65,-63.56,-3.61,239,1912, #61c7fe,97|199|254
+LING3,Lingual Gyrus (3),,,,,,,,,Cortical,Right,310,12.95,-63.84,-2.16,262,2096, #61c7fe,97|199|254
+LING4,Lingual Gyrus (4),,,,,,,,,Cortical,Left,311,-14.11,-75.68,-10.11,38,304, #a50f86,165|15|134
+LING4,Lingual Gyrus (4),,,,VISU,,,,1,Cortical,Right,312,13.03,-72.41,-9.33,39,312, #a50f86,165|15|134
+LING5,Lingual Gyrus (5),,,,,,,,,Cortical,Left,313,-10.99,-81.26,-9.01,140,1120, #1ffe76,31|254|118
+LING5,Lingual Gyrus (5),,,,,,,,,Cortical,Right,314,10.94,-79.40,-7.08,83,664, #1ffe76,31|254|118
+LING6,Lingual Gyrus (6),,,,,,,,,Cortical,Left,315,-6.26,-80.41,-4.65,161,1288, #78589b,120|88|155
+LING6,Lingual Gyrus (6),,,,VISU,,,,1,Cortical,Right,316,6.66,-78.86,-3.36,146,1168, #78589b,120|88|155
+O1_1,Superior Occipital Gyrus (1),,,,,,,,,Cortical,Left,129,-15.46,-82.53,34.54,184,1472, #f7813a,247|129|58
+O1_1,Superior Occipital Gyrus (1),,,,,,,,,Cortical,Right,130,18.05,-80.76,37.26,171,1368, #f7813a,247|129|58
+O1_2,Superior Occipital Gyrus (2),,,,,,,,,Cortical,Left,131,-14.09,-90.33,24.95,499,3992, #2447db,36|71|219
+O1_2,Superior Occipital Gyrus (2),,,,,,,,,Cortical,Right,132,17.04,-87.78,26.47,560,4480, #2447db,36|71|219
+O2_1,Middle Occipital Gyrus (1),,,,,,,,,Cortical,Left,133,-31.65,-78.10,25.26,509,4072, #adeb61,173|235|97
+O2_1,Middle Occipital Gyrus (1),,,,PosteriorMedial,,,,3,Cortical,Right,134,36.16,-74.47,25.32,516,4128, #adeb61,173|235|97
+O2_2,Middle Occipital Gyrus (2),,,,,,,,,Cortical,Left,135,-36.97,-77.40,14.36,225,1800, #5fde98,95|222|152
+O2_2,Middle Occipital Gyrus (2),,,,VISU,,,,1,Cortical,Right,136,41.11,-72.91,12.18,376,3008, #5fde98,95|222|152
+O2_3,Middle Occipital Gyrus (3),,,,,,,,,Cortical,Left,137,-41.73,-71.49,17.95,202,1616, #2cd2f2,44|210|242
+O2_3,Middle Occipital Gyrus (3),,,,TemporoFrontal,,,,4,Cortical,Right,138,45.07,-63.14,15.12,159,1272, #2cd2f2,44|210|242
+O2_4,Middle Occipital Gyrus (4),,,,,,,,,Cortical,Left,139,-36.15,-80.02,30.28,363,2904, #8a56bd,138|86|189
+O2_4,Middle Occipital Gyrus (4),,,,PosteriorMedial,,,,3,Cortical,Right,140,40.92,-73.87,29.65,498,3984, #8a56bd,138|86|189
+O3_1,Inferior Occipital Gyrus (1),SENT_VISU,,,,1,,,,Cortical,Left,141,-48.42,-68.99,-4.30,139,1112, #71bd73,113|189|115
+O3_1,Inferior Occipital Gyrus (1),,,,,,,,,Cortical,Right,142,49.90,-60.21,-8.76,180,1440, #71bd73,113|189|115
+O3_2,Inferior Occipital Gyrus (2),,,,,,,,,Cortical,Left,143,-44.53,-70.72,-6.68,382,3056, #1bbfb6,27|191|182
+O3_2,Inferior Occipital Gyrus (2),,,,VISU,,,,1,Cortical,Right,144,47.06,-64.73,-7.45,450,3600, #1bbfb6,27|191|182
+Olat1,Lateral Occipital Gyrus (1),,,,,,,,,Cortical,Left,119,-15.24,-96.85,1.35,356,2848, #aa0ca7,170|12|167
+Olat1,Lateral Occipital Gyrus (1),,,,,,,,,Cortical,Right,120,17.11,-94.24,3.52,422,3376, #aa0ca7,170|12|167
+Olat2,Lateral Occipital Gyrus (2),,,,,,,,,Cortical,Left,121,-26.36,-93.63,-0.71,576,4608, #6f9dcc,111|157|204
+Olat2,Lateral Occipital Gyrus (2),,,,VISU,,,,1,Cortical,Right,122,28.07,-89.12,-2.06,674,5392, #6f9dcc,111|157|204
+Olat3,Lateral Occipital Gyrus (3),,,,,,,,,Cortical,Left,123,-39.57,-84.44,-11.94,145,1160, #b50870,181|8|112
+Olat3,Lateral Occipital Gyrus (3),,,,,,,,,Cortical,Right,124,43.51,-80.75,-10.49,110,880, #b50870,181|8|112
+Olat4,Lateral Occipital Gyrus (4),,,,,,,,,Cortical,Left,125,-30.78,-88.66,8.42,485,3880, #97b08a,151|176|138
+Olat4,Lateral Occipital Gyrus (4),,,,VISU,,,,1,Cortical,Right,126,33.62,-85.39,8.81,472,3776, #97b08a,151|176|138
+Olat5,Lateral Occipital Gyrus (5),,,,,,,,,Cortical,Left,127,-35.33,-78.75,-0.62,974,7792, #a369aa,163|105|170
+Olat5,Lateral Occipital Gyrus (5),,,,VISU,,,,1,Cortical,Right,128,35.61,-75.57,1.65,1015,8120, #a369aa,163|105|170
+olf,olfactory sulcus,,,,,,,,,Cortical,Left,49,-5.53,38.80,-23.45,470,3760, #f31cbf,243|28|191
+olf,olfactory sulcus,,,,,,,,,Cortical,Right,50,5.54,37.90,-23.47,477,3816, #f31cbf,243|28|191
+Opole,Occipital Pole,,,,,,,,,Cortical,Left,117,-21.37,-96.02,-13.74,302,2416, #b215d8,178|21|216
+Opole,Occipital Pole,,,,,,,,,Cortical,Right,118,23.67,-93.07,-12.92,372,2976, #b215d8,178|21|216
+orb1,orbital sulcus (1),,,,,,,,,Cortical,Left,45,-24.97,38.57,-14.99,278,2224, #8e4c90,142|76|144
+orb1,orbital sulcus (1),,,,ParietoFrontal,,,,5,Cortical,Right,46,25.82,41.49,-14.91,370,2960, #8e4c90,142|76|144
+orb2,orbital sulcus (2),,,,,,,,,Cortical,Left,47,-31.14,33.93,-13.17,225,1800, #0fb19a,15|177|154
+orb2,orbital sulcus (2),,,,,,,,,Cortical,Right,48,29.18,34.31,-12.77,244,1952, #0fb19a,15|177|154
+P1_1,Superior Parietal Gyrus (1),,,,SomatoMotor,,,,2,Cortical,Left,77,-23.63,-47.32,60.09,65,520, #8147fe,129|71|254
+P1_1,Superior Parietal Gyrus (1),,,,,,,,,Cortical,Right,78,23.50,-46.83,62.89,121,968, #8147fe,129|71|254
+P1_2,Superior Parietal Gyrus (2),,,,SomatoMotor,,,,2,Cortical,Left,79,-18.60,-46.92,67.53,209,1672, #f3d36b,243|211|107
+P1_2,Superior Parietal Gyrus (2),,,,,,,,,Cortical,Right,80,19.90,-44.91,67.12,232,1856, #f3d36b,243|211|107
+P1_3,Superior Parietal Gyrus (3),,,,SomatoMotor,,,,2,Cortical,Left,81,-29.60,-51.22,66.56,262,2096, #09ffca,9|255|202
+P1_3,Superior Parietal Gyrus (3),,,,,,,,,Cortical,Right,82,28.97,-48.93,67.51,148,1184, #09ffca,9|255|202
+P1_4,Superior Parietal Gyrus (4),,,,,,,,,Cortical,Left,83,-24.83,-53.98,56.64,223,1784, #11ce7b,17|206|123
+P1_4,Superior Parietal Gyrus (4),,,,,,,,,Cortical,Right,84,25.51,-51.19,56.61,284,2272, #11ce7b,17|206|123
+P1_5,Superior Parietal Gyrus (5),,,,SomatoMotor,,,,2,Cortical,Left,85,-16.02,-61.32,61.46,447,3576, #c0912e,192|145|46
+P1_5,Superior Parietal Gyrus (5),,,,,,,,,Cortical,Right,86,15.16,-57.86,62.38,292,2336, #c0912e,192|145|46
+P2,Inferior Parietal Gyrus,,,,,,,,,Cortical,Left,107,-44.91,-52.61,49.77,211,1688, #5a687e,90|104|126
+P2,Inferior Parietal Gyrus,,,,ParietoFrontal,,,,5,Cortical,Right,108,42.73,-53.13,47.59,410,3280, #5a687e,90|104|126
+PALL,Pallidum,,,,,,,,,Subcortical,Right,362,18.96,-6.92,-0.59,85,680, #f13e97,241|62|151
+PALL,Pallidum,,WORD_LIST_CONTROL,,TemporoFrontal,,1,,4,Subcortical,Left,361,-18.64,-8.15,-0.52,132,1056, #f13e97,241|62|151
+pCENT1,Paracentral Lobule (1),,WORD_LIST_CORE,HAMOTA,SomatoMotor,,2,1,2,Cortical,Left,257,-6.89,-16.76,50.90,237,1896, #f2e6d5,242|230|213
+pCENT1,Paracentral Lobule (1),,,HAMOTA,,,,1,,Cortical,Right,258,7.68,-14.74,50.06,312,2496, #f2e6d5,242|230|213
+pCENT2,Paracentral Lobule (2),,,,SomatoMotor,,,,2,Cortical,Left,259,-10.15,-28.61,65.77,496,3968, #37fa8d,55|250|141
+pCENT2,Paracentral Lobule (2),,,,,,,,,Cortical,Right,260,10.90,-26.74,66.43,568,4544, #37fa8d,55|250|141
+pCENT3,Paracentral Lobule (3),,,,,,,,,Cortical,Left,261,-7.16,-26.00,69.51,412,3296, #85d3b6,133|211|182
+pCENT3,Paracentral Lobule (3),,,,,,,,,Cortical,Right,262,7.67,-26.74,70.16,419,3352, #85d3b6,133|211|182
+pCENT4,Paracentral Lobule (4),SENT_MEM,,,,2,,,,Cortical,Left,263,-6.39,-29.17,75.90,248,1984, #af825c,175|130|92
+pCENT4,Paracentral Lobule (4),,,,,,,,,Cortical,Right,264,7.17,-28.66,75.71,225,1800, #af825c,175|130|92
+pHIPP1,ParaHippocampal Gyrus (1),SENT_VISU,,,,1,,,,Cortical,Left,321,-15.72,-4.03,-18.36,231,1848, #568cbb,86|140|187
+pHIPP1,ParaHippocampal Gyrus (1),,,,,,,,,Cortical,Right,322,14.13,-3.68,-17.84,211,1688, #568cbb,86|140|187
+pHIPP2,ParaHippocampal Gyrus (2),,,,,,,,,Cortical,Left,323,-27.64,-26.64,-18.75,329,2632, #618ad8,97|138|216
+pHIPP2,ParaHippocampal Gyrus (2),,,,PosteriorMedial,,,,3,Cortical,Right,324,28.61,-24.74,-18.63,301,2408, #618ad8,97|138|216
+pHIPP3,ParaHippocampal Gyrus (3),,,,,,,,,Cortical,Left,325,-17.55,-12.62,-30.23,94,752, #c959d9,201|89|217
+pHIPP3,ParaHippocampal Gyrus (3),,,,,,,,,Cortical,Right,326,18.09,-14.34,-28.52,128,1024, #c959d9,201|89|217
+pHIPP4,ParaHippocampal Gyrus (4),,,,,,,,,Cortical,Left,327,-17.16,-27.37,-12.81,259,2072, #98c32f,152|195|47
+pHIPP4,ParaHippocampal Gyrus (4),,,,PosteriorMedial,,,,3,Cortical,Right,328,16.69,-27.39,-10.05,321,2568, #98c32f,152|195|47
+pHIPP5,ParaHippocampal Gyrus (5),,,,,,,,,Cortical,Left,329,-27.07,-39.59,-10.86,387,3096, #5253e9,82|83|233
+pHIPP5,ParaHippocampal Gyrus (5),,,,PosteriorMedial,,,,3,Cortical,Right,330,27.17,-35.99,-11.93,341,2728, #5253e9,82|83|233
+poleT1_1,Superior Temporal Pole Gyrus (1),,,,,,,,,Cortical,Left,197,-35.44,10.61,-23.88,363,2904, #7aa5bc,122|165|188
+poleT1_1,Superior Temporal Pole Gyrus (1),,,,,,,,,Cortical,Right,198,35.51,15.70,-23.94,207,1656, #7aa5bc,122|165|188
+poleT1_2,Superior Temporal Pole Gyrus (2),,,,,,,,,Cortical,Left,199,-42.68,7.63,-16.25,201,1608, #d92a9a,217|42|154
+poleT1_2,Superior Temporal Pole Gyrus (2),,,,,,,,,Cortical,Right,200,43.98,9.24,-16.45,344,2752, #d92a9a,217|42|154
+poleT2_1,Middle Temporal Pole Gyrus (1),,,,,,,,,Cortical,Left,201,-45.17,7.21,-33.92,861,6888, #c5b112,197|177|18
+poleT2_1,Middle Temporal Pole Gyrus (1),,,,,,,,,Cortical,Right,202,48.13,8.42,-33.15,411,3288, #c5b112,197|177|18
+poleT2_2,Middle Temporal Pole Gyrus (2),,,,,,,,,Cortical,Left,203,-35.22,8.78,-32.83,46,368, #cb3697,203|54|151
+poleT2_2,Middle Temporal Pole Gyrus (2),,,,,,,,,Cortical,Right,204,34.73,12.52,-33.96,201,1608, #cb3697,203|54|151
+poleT2_3,Middle Temporal Pole Gyrus (3),,,,,,,,,Cortical,Left,205,-25.70,5.92,-37.41,880,7040, #ddaa6b,221|170|107
+poleT2_3,Middle Temporal Pole Gyrus (3),,,,PosteriorMedial,,,,3,Cortical,Right,206,26.39,6.49,-35.94,993,7944, #ddaa6b,221|170|107
+pos1,parietooccipital sulcus (1),,,,,,,,,Cortical,Left,283,-12.02,-55.73,7.56,469,3752, #9496be,148|150|190
+pos1,parietooccipital sulcus (1),,,,PosteriorMedial,,,,3,Cortical,Right,284,13.11,-54.10,8.50,435,3480, #9496be,148|150|190
+pos2,parietooccipital sulcus (2),,,,,,,,,Cortical,Left,285,-13.42,-65.08,25.68,130,1040, #5a499f,90|73|159
+pos2,parietooccipital sulcus (2),,,,PosteriorMedial,,,,3,Cortical,Right,286,15.89,-61.43,26.16,158,1264, #5a499f,90|73|159
+pos3,parietooccipital sulcus (3),,,,,,,,,Cortical,Left,287,-10.49,-75.19,36.86,244,1952, #fd1da2,253|29|162
+pos3,parietooccipital sulcus (3),,,,PosteriorMedial,,,,3,Cortical,Right,288,14.05,-72.93,37.40,256,2048, #fd1da2,253|29|162
+pos4,parietooccipital sulcus (4),,,,,,,,,Cortical,Left,289,-17.98,-59.57,4.08,323,2584, #08d975,8|217|117
+pos4,parietooccipital sulcus (4),,,,,,,,,Cortical,Right,290,20.61,-59.20,6.36,392,3136, #08d975,8|217|117
+pos5,parietooccipital sulcus (5),,,,,,,,,Cortical,Left,291,-17.76,-70.00,19.59,34,272, #a9e672,169|230|114
+pos5,parietooccipital sulcus (5),,,,PosteriorMedial,,,,3,Cortical,Right,292,20.88,-65.58,20.04,52,416, #a9e672,169|230|114
+pos6,parietooccipital sulcus (6),,,,,,,,,Cortical,Left,293,-12.53,-75.32,29.32,177,1416, #67b72e,103|183|46
+pos6,parietooccipital sulcus (6),,,,,,,,,Cortical,Right,294,15.09,-72.51,29.26,178,1424, #67b72e,103|183|46
+post1,postcentral sulcus (1),,,,SomatoMotor,,,,2,Cortical,Left,71,-57.52,-17.78,31.75,194,1552, #9ee1d3,158|225|211
+post1,postcentral sulcus (1),,,,,,,,,Cortical,Right,72,58.27,-15.00,32.29,234,1872, #9ee1d3,158|225|211
+post2,postcentral sulcus (2),,,HAMOTA,SomatoMotor,,,1,2,Cortical,Left,73,-40.80,-33.45,54.73,558,4464, #af6760,175|103|96
+post2,postcentral sulcus (2),,,HAMOTA,,,,1,,Cortical,Right,74,40.89,-29.91,52.31,756,6048, #af6760,175|103|96
+post3,postcentral sulcus (3),,,,SomatoMotor,,,,2,Cortical,Left,75,-43.01,-32.84,44.10,587,4696, #01f465,1|244|101
+post3,postcentral sulcus (3),,,,,,,,,Cortical,Right,76,47.97,-25.97,42.54,145,1160, #01f465,1|244|101
+prec1,precentral sulcus (1),,,,,,,,,Cortical,Left,51,-49.74,6.14,25.67,250,2000, #83c60b,131|198|11
+prec1,precentral sulcus (1),,,,ParietoFrontal,,,,5,Cortical,Right,52,50.21,9.65,24.23,337,2696, #83c60b,131|198|11
+prec2,precentral sulcus (2),,,,,,,,,Cortical,Right,54,26.06,-7.72,58.05,309,2472, #c2aa0e,194|170|14
+prec2,precentral sulcus (2),,WORD_LIST_CORE,,SomatoMotor,,2,,2,Cortical,Left,53,-25.24,-8.47,58.87,336,2688, #c2aa0e,194|170|14
+prec3,precentral sulcus (3),SENT_MEM,,,SomatoMotor,2,,,2,Cortical,Left,55,-18.19,-8.70,69.30,74,592, #614ed1,97|78|209
+prec3,precentral sulcus (3),,,,,,,,,Cortical,Right,56,19.75,-6.35,67.70,40,320, #614ed1,97|78|209
+prec4,precentral sulcus (4),SENT_CORE,,,,3,,,,Cortical,Left,57,-42.18,0.72,49.91,766,6128, #cb1b85,203|27|133
+prec4,precentral sulcus (4),,,,ParietoFrontal,,,,5,Cortical,Right,58,43.66,1.00,48.36,540,4320, #cb1b85,203|27|133
+prec5,precentral sulcus (5),,,,,,,,,Cortical,Right,60,56.95,8.04,28.78,147,1176, #d6f498,214|244|152
+prec5,precentral sulcus (5),,WORD_LIST_CORE,,,,2,,,Cortical,Left,59,-56.11,4.79,30.58,146,1168, #d6f498,214|244|152
+prec6,precentral sulcus (6),,WORD_LIST_CORE,HAMOTA,SomatoMotor,,2,1,2,Cortical,Left,61,-29.77,-11.18,64.68,151,1208, #339470,51|148|112
+prec6,precentral sulcus (6),,,HAMOTA,,,,1,,Cortical,Right,62,30.91,-9.80,64.17,119,952, #339470,51|148|112
+PRECU1,Precuneus (1),,,,,,,,,Cortical,Left,265,-11.80,-55.27,13.43,427,3416, #c936d0,201|54|208
+PRECU1,Precuneus (1),,,,PosteriorMedial,,,,3,Cortical,Right,266,12.78,-52.80,13.80,442,3536, #c936d0,201|54|208
+PRECU2,Precuneus (2),,,,,,,,,Cortical,Left,267,-4.98,-56.03,19.11,232,1856, #b3bd5d,179|189|93
+PRECU2,Precuneus (2),,,,,,,,,Cortical,Right,268,5.01,-55.53,19.80,204,1632, #b3bd5d,179|189|93
+PRECU3,Precuneus (3),,,,,,,,,Cortical,Left,269,-6.90,-50.87,33.74,558,4464, #db85b4,219|133|180
+PRECU3,Precuneus (3),,,,,,,,,Cortical,Right,270,5.74,-51.85,32.12,397,3176, #db85b4,219|133|180
+PRECU4,Precuneus (4),,,,,,,,,Cortical,Left,271,-6.95,-49.52,45.40,296,2368, #62ce28,98|206|40
+PRECU4,Precuneus (4),,,,,,,,,Cortical,Right,272,7.76,-48.75,43.64,276,2208, #62ce28,98|206|40
+PRECU5,Precuneus (5),,,,,,,,,Cortical,Left,273,-7.67,-54.56,56.22,343,2744, #bfc5ac,191|197|172
+PRECU5,Precuneus (5),,,,,,,,,Cortical,Right,274,7.18,-50.01,54.18,375,3000, #bfc5ac,191|197|172
+PRECU6,Precuneus (6),SENT_MEM,,,,2,,,,Cortical,Left,275,-7.41,-61.26,64.06,276,2208, #c63851,198|56|81
+PRECU6,Precuneus (6),,,,,,,,,Cortical,Right,276,7.97,-59.91,63.68,305,2440, #c63851,198|56|81
+PRECU7,Precuneus (7),,,,,,,,,Cortical,Left,277,-5.86,-64.69,35.68,168,1344, #de4dcc,222|77|204
+PRECU7,Precuneus (7),,,,PosteriorMedial,,,,3,Cortical,Right,278,7.17,-62.58,36.00,151,1208, #de4dcc,222|77|204
+PRECU8,Precuneus (8),,,,,,,,,Cortical,Left,279,-6.83,-70.82,41.15,369,2952, #97d740,151|215|64
+PRECU8,Precuneus (8),,WORD_LIST_CONTROL,,PosteriorMedial,,1,,3,Cortical,Right,280,10.52,-68.47,41.07,381,3048, #97d740,151|215|64
+PRECU9,Precuneus (9),,,,,,,,,Cortical,Left,281,-10.68,-69.54,49.26,231,1848, #e9da5d,233|218|93
+PRECU9,Precuneus (9),,WORD_LIST_CONTROL,,PosteriorMedial,,1,,3,Cortical,Right,282,12.71,-68.38,50.30,310,2480, #e9da5d,233|218|93
+PUT2,Putamen (2),SENT_VISU,,,,1,,,,Subcortical,Left,363,-23.30,6.26,0.78,640,5120, #6690e6,102|144|230
+PUT2,Putamen (2),,,,,,,,,Subcortical,Right,364,23.23,7.35,0.77,626,5008, #6690e6,102|144|230
+PUT3,Putamen (3),SENT_VISU,,HAMOTA,TemporoFrontal,1,,1,4,Subcortical,Left,365,-28.01,-6.26,1.77,704,5632, #76a6a2,118|166|162
+PUT3,Putamen (3),,,HAMOTA,,,,1,,Subcortical,Right,366,28.53,-4.10,0.86,745,5960, #76a6a2,118|166|162
+rol1,Rolandic fissure (1),,,,,,,,,Cortical,Right,64,55.40,-5.20,31.14,1101,8808, #55ba29,85|186|41
+rol1,Rolandic fissure (1),,WORD_LIST_CORE,,SomatoMotor,,2,,2,Cortical,Left,63,-54.26,-8.37,31.99,1167,9336, #55ba29,85|186|41
+rol2,Rolandic fissure (2),,WORD_LIST_CORE,HAMOTA,SomatoMotor,,2,1,2,Cortical,Left,65,-43.58,-13.72,50.62,416,3328, #baf38f,186|243|143
+rol2,Rolandic fissure (2),,,HAMOTA,,,,1,,Cortical,Right,66,44.72,-10.92,48.62,338,2704, #baf38f,186|243|143
+rol3,Rolandic fissure (3),,WORD_LIST_CORE,HAMOTA,SomatoMotor,,2,1,2,Cortical,Left,67,-38.76,-23.13,61.44,1136,9088, #32e9f4,50|233|244
+rol3,Rolandic fissure (3),,,HAMOTA,,,,1,,Cortical,Right,68,36.83,-20.18,60.01,1148,9184, #32e9f4,50|233|244
+rol4,Rolandic fissure (4),,,HAMOTA,SomatoMotor,,,1,2,Cortical,Left,69,-23.14,-28.85,65.34,1110,8880, #45fc65,69|252|101
+rol4,Rolandic fissure (4),,,HAMOTA,,,,1,,Cortical,Right,70,22.07,-27.33,65.41,733,5864, #45fc65,69|252|101
+ROLop1,Rolandic Operculum (1),,,,,,,,,Cortical,Right,158,46.10,5.65,9.35,558,4464, #4c7981,76|121|129
+ROLop1,Rolandic Operculum (1),,WORD_LIST_CORE,,,,2,,,Cortical,Left,157,-46.26,3.59,9.39,650,5200, #4c7981,76|121|129
+ROLop2,Rolandic Operculum (2),,,HAMOTA,SomatoMotor,,,1,2,Cortical,Left,159,-50.59,-8.96,13.91,550,4400, #7d38f9,125|56|249
+ROLop2,Rolandic Operculum (2),,,HAMOTA,,,,1,,Cortical,Right,160,49.74,-6.32,13.89,616,4928, #7d38f9,125|56|249
+rost,anterior rostral sulcus,,,,,,,,,Cortical,Left,213,-7.26,47.20,-3.46,537,4296, #87a092,135|160|146
+rost,anterior rostral sulcus,,,,,,,,,Cortical,Right,214,6.43,47.40,-3.97,387,3096, #87a092,135|160|146
+SCALL,Subcallosal Gyrus,,,,,,,,,Cortical,Left,219,-6.37,20.84,-16.04,244,1952, #fa7caf,250|124|175
+SCALL,Subcallosal Gyrus,,,,,,,,,Cortical,Right,220,5.89,20.74,-16.33,239,1912, #fa7caf,250|124|175
+SMA1,Supplementary Motor Area (1),,,,,,,,,Cortical,Left,221,-6.27,22.25,46.72,161,1288, #7bf59c,123|245|156
+SMA1,Supplementary Motor Area (1),,WORD_LIST_CONTROL,,ParietoFrontal,,1,,5,Cortical,Right,222,5.86,20.55,49.00,172,1376, #7bf59c,123|245|156
+SMA2,Supplementary Motor Area (2),SENT_CORE,,,,3,,,,Cortical,Left,223,-10.56,18.18,63.12,268,2144, #a03a7a,160|58|122
+SMA2,Supplementary Motor Area (2),,WORD_LIST_CONTROL,,TemporoFrontal,,1,,4,Cortical,Right,224,10.54,18.48,62.88,218,1744, #a03a7a,160|58|122
+SMA3,Supplementary Motor Area (3),SENT_CORE,,,,3,,,,Cortical,Left,225,-7.21,7.64,65.58,527,4216, #bd33e8,189|51|232
+SMA3,Supplementary Motor Area (3),,WORD_LIST_CONTROL,,TemporoFrontal,,1,,4,Cortical,Right,226,6.39,10.05,66.47,275,2200, #bd33e8,189|51|232
+SMG1,Supramarginal Gyrus (1),,WORD_LIST_CORE,HAMOTA,SomatoMotor,,2,1,2,Cortical,Left,87,-54.47,-29.51,21.37,279,2232, #845892,132|88|146
+SMG1,Supramarginal Gyrus (1),,,HAMOTA,,,,1,,Cortical,Right,88,54.51,-26.41,22.05,367,2936, #845892,132|88|146
+SMG2,SupraMarginal Gyrus (2),,,,,,,,,Cortical,Left,89,-58.95,-29.15,25.89,243,1944, #4c5295,76|82|149
+SMG2,SupraMarginal Gyrus (2),,,,,,,,,Cortical,Right,90,58.72,-26.76,29.19,348,2784, #4c5295,76|82|149
+SMG3,Supramarginal Gyrus (3),,,,,,,,,Cortical,Left,91,-58.63,-27.42,36.65,306,2448, #c646ee,198|70|238
+SMG3,Supramarginal Gyrus (3),,,,,,,,,Cortical,Right,92,59.86,-23.09,38.50,205,1640, #c646ee,198|70|238
+SMG4,Supramarginal Gyrus (4),,,,,,,,,Cortical,Left,93,-59.11,-37.91,37.03,329,2632, #cbd9c0,203|217|192
+SMG4,Supramarginal Gyrus (4),,,,,,,,,Cortical,Right,94,60.16,-35.41,38.01,270,2160, #cbd9c0,203|217|192
+SMG5,SupraMarginal Gyrus (5),,,,,,,,,Cortical,Left,95,-57.83,-42.56,29.27,107,856, #869eac,134|158|172
+SMG5,SupraMarginal Gyrus (5),,,,,,,,,Cortical,Right,96,59.70,-39.83,27.52,178,1424, #869eac,134|158|172
+SMG6,SupraMarginal Gyrus (6),,,,,,,,,Cortical,Left,97,-53.63,-42.10,46.05,120,960, #8d5487,141|84|135
+SMG6,SupraMarginal Gyrus (6),,,,ParietoFrontal,,,,5,Cortical,Right,98,53.77,-38.15,43.95,133,1064, #8d5487,141|84|135
+SMG7,SupraMarginal Gyrus (7),SENT_CORE,,,,3,,,,Cortical,Left,99,-55.21,-51.67,25.51,303,2424, #9ee1f0,158|225|240
+SMG7,SupraMarginal Gyrus (7),,,,,,,,,Cortical,Right,100,55.36,-45.90,33.41,125,1000, #9ee1f0,158|225|240
+STS1,superior temporal sulcus (1),SENT_CORE,,,,3,,,,Cortical,Left,169,-49.71,14.02,-21.55,326,2608, #28c44f,40|196|79
+STS1,superior temporal sulcus (1),,,,,,,,,Cortical,Right,170,52.12,13.36,-25.86,85,680, #28c44f,40|196|79
+STS2,superior temporal sulcus (2),SENT_CORE,,,,3,,,,Cortical,Left,171,-54.86,-7.17,-12.75,403,3224, #82ccc0,130|204|192
+STS2,superior temporal sulcus (2),,,,,,,,,Cortical,Right,172,54.32,-2.50,-15.50,767,6136, #82ccc0,130|204|192
+STS3,superior temporal sulcus (3),SENT_CORE,,,,3,,,,Cortical,Left,173,-54.68,-33.01,-1.67,629,5032, #af6651,175|102|81
+STS3,superior temporal sulcus (3),,WORD_LIST_CORE,,TemporoFrontal,,2,,4,Cortical,Right,174,53.05,-31.88,-0.27,641,5128, #af6651,175|102|81
+STS4,superior temporal sulcus (4),SENT_CORE,,,,3,,,,Cortical,Left,175,-56.55,-48.37,13.36,642,5136, #2cc251,44|194|81
+STS4,superior temporal sulcus (4),,,,TemporoFrontal,,,,4,Cortical,Right,176,54.61,-45.53,14.61,840,6720, #2cc251,44|194|81
+STS5,superior temporal sulcus (5),,,,,,,,,Cortical,Left,177,-48.12,-58.18,25.79,711,5688, #d9a032,217|160|50
+STS5,superior temporal sulcus (5),,,,,,,,,Cortical,Right,178,51.38,-54.06,21.03,463,3704, #d9a032,217|160|50
+T1_1,Superior Temporal Gyrus (1),,,,SomatoMotor,,,,2,Cortical,Left,161,-55.47,-1.12,2.30,105,840, #b5a4ec,181|164|236
+T1_1,Superior Temporal Gyrus (1),,,,,,,,,Cortical,Right,162,55.71,2.10,2.53,136,1088, #b5a4ec,181|164|236
+T1_2,Superior Temporal Gyrus (2),,,,SomatoMotor,,,,2,Cortical,Left,163,-45.26,-10.94,-1.62,308,2464, #39e5ef,57|229|239
+T1_2,Superior Temporal Gyrus (2),,,,,,,,,Cortical,Right,164,46.53,-7.20,-1.59,307,2456, #39e5ef,57|229|239
+T1_3,Superior Temporal Gyrus (3),,,,SomatoMotor,,,,2,Cortical,Left,165,-52.00,-27.13,10.92,954,7632, #0e71d8,14|113|216
+T1_3,Superior Temporal Gyrus (3),,,,,,,,,Cortical,Right,166,57.27,-19.18,8.83,825,6600, #0e71d8,14|113|216
+T1_4,Superior Temporal Gyrus (4),SENT_CORE,,,TemporoFrontal,3,,,4,Cortical,Left,167,-58.75,-23.25,3.73,832,6656, #ea8910,234|137|16
+T1_4,Superior Temporal Gyrus (4),,,,,,,,,Cortical,Right,168,60.05,-19.98,2.20,729,5832, #ea8910,234|137|16
+T2_1,Middle Temporal Gyrus (1),,,,,,,,,Cortical,Left,179,-61.21,-11.54,-16.84,364,2912, #c1ab54,193|171|84
+T2_1,Middle Temporal Gyrus (1),,,,,,,,,Cortical,Right,180,60.95,-5.47,-21.00,214,1712, #c1ab54,193|171|84
+T2_2,Middle Temporal Gyrus (2),,,,,,,,,Cortical,Left,181,-62.98,-34.34,-12.07,536,4288, #53ed4a,83|237|74
+T2_2,Middle Temporal Gyrus (2),,,,,,,,,Cortical,Right,182,63.70,-28.40,-12.80,592,4736, #53ed4a,83|237|74
+T2_3,Middle Temporal Gyrus (3),SENT_CORE,,,,3,,,,Cortical,Left,183,-60.97,-35.03,-4.80,266,2128, #7ee1f9,126|225|249
+T2_3,Middle Temporal Gyrus (3),,,,TemporoFrontal,,,,4,Cortical,Right,184,62.34,-30.88,-4.71,241,1928, #7ee1f9,126|225|249
+T2_4,Middle Temporal Gyrus (4),SENT_CORE,,,,3,,,,Cortical,Left,185,-53.09,-59.39,7.03,496,3968, #bc5bca,188|91|202
+T2_4,Middle Temporal Gyrus (4),,,,TemporoFrontal,,,,4,Cortical,Right,186,56.80,-53.22,2.97,269,2152, #bc5bca,188|91|202
+T3_1,Inferior Temporal Gyrus (1),,,,,,,,,Cortical,Left,187,-46.57,-15.15,-32.77,936,7488, #f361ca,243|97|202
+T3_1,Inferior Temporal Gyrus (1),,,,,,,,,Cortical,Right,188,45.27,-7.24,-36.53,1021,8168, #f361ca,243|97|202
+T3_2,Inferior Temporal Gyrus (2),,,,,,,,,Cortical,Left,189,-58.55,-26.07,-23.84,629,5032, #cd05fb,205|5|251
+T3_2,Inferior Temporal Gyrus (2),,,,,,,,,Cortical,Right,190,57.81,-22.11,-25.18,656,5248, #cd05fb,205|5|251
+T3_3,Inferior Temporal Gyrus (3),,,,,,,,,Cortical,Left,191,-56.44,-52.94,-13.71,654,5232, #7b9dea,123|157|234
+T3_3,Inferior Temporal Gyrus (3),,,,PosteriorMedial,,,,3,Cortical,Right,192,57.39,-46.33,-13.87,597,4776, #7b9dea,123|157|234
+T3_4,Inferior Temporal Gyrus (4),SENT_VISU,,,,1,,,,Cortical,Left,193,-50.02,-60.63,-7.64,410,3280, #b8ab9b,184|171|155
+T3_4,Inferior Temporal Gyrus (4),,,,PosteriorMedial,,,,3,Cortical,Right,194,54.06,-57.86,-10.55,226,1808, #b8ab9b,184|171|155
+T3_5,Inferior Temporal Gyrus (5),,,,,,,,,Cortical,Left,195,-45.09,-63.82,5.50,136,1088, #4968d5,73|104|213
+T3_5,Inferior Temporal Gyrus (5),,,,TemporoFrontal,,,,4,Cortical,Right,196,49.22,-58.33,3.81,138,1104, #4968d5,73|104|213
+THA1,Thalamus (1),,,,TemporoFrontal,,,,4,Subcortical,Left,367,-4.27,0.27,1.43,81,648, #49fc2a,73|252|42
+THA1,Thalamus (1),,,,,,,,,Subcortical,Right,368,3.61,0.39,1.40,67,536, #49fc2a,73|252|42
+THA2,Thalamus (2),,,,,,,,,Subcortical,Left,369,-9.09,-8.55,12.95,218,1744, #f141ed,241|65|237
+THA2,Thalamus (2),,,,,,,,,Subcortical,Right,370,8.54,-7.45,12.51,222,1776, #f141ed,241|65|237
+THA3,Thalamus (3),,,,,,,,,Subcortical,Left,371,-3.31,-7.45,-1.10,29,232, #eb7312,235|115|18
+THA3,Thalamus (3),,,,,,,,,Subcortical,Right,372,2.78,-7.04,-1.13,23,184, #eb7312,235|115|18
+THA4,Thalamus (4),SENT_MEM,,,,2,,,,Subcortical,Left,373,-3.22,-14.39,8.41,87,696, #e6e01e,230|224|30
+THA4,Thalamus (4),,,,,,,,,Subcortical,Right,374,3.29,-14.46,8.94,96,768, #e6e01e,230|224|30
+THA5,Thalamus (5),,,HAMOTA,,,,1,,Subcortical,Left,375,-12.41,-18.97,7.01,630,5040, #f9c0be,249|192|190
+THA5,Thalamus (5),,,HAMOTA,,,,1,,Subcortical,Right,376,12.66,-17.47,6.40,577,4616, #f9c0be,249|192|190
+THA6,Thalamus (6),,,,,,,,,Subcortical,Left,377,-15.05,-28.28,13.55,120,960, #ee500a,238|80|10
+THA6,Thalamus (6),,,,,,,,,Subcortical,Right,378,14.55,-26.51,12.73,160,1280, #ee500a,238|80|10
+THA7,Thalamus (7),,,,,,,,,Subcortical,Left,379,-8.87,-28.07,10.67,30,240, #616acf,97|106|207
+THA7,Thalamus (7),,,,,,,,,Subcortical,Right,380,8.76,-26.49,9.78,37,296, #616acf,97|106|207
+THA8,Thalamus (8),,,,,,,,,Subcortical,Left,381,-4.91,-26.27,14.05,44,352, #dab73b,218|183|59
+THA8,Thalamus (8),,,,,,,,,Subcortical,Right,382,3.53,-25.33,13.13,30,240, #dab73b,218|183|59
+THA9,Thalamus (9),,,,,,,,,Subcortical,Left,383,-5.39,-10.71,-7.31,276,2208, #b89d24,184|157|36
+THA9,Thalamus (9),,,,,,,,,Subcortical,Right,384,4.79,-10.27,-6.44,219,1752, #b89d24,184|157|36
