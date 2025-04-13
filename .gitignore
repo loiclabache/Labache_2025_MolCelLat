@@ -24,6 +24,7 @@
 .Rproj
 .Rmd
 
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
