@@ -1,7 +1,7 @@
 The molecular and cellular underpinnings of human brain lateralization
 ================
 
-[![DOI](https://zenodo.org/badge/X.svg)](https://zenodo.org/doi/10.5281/zenodo.X)
+[![DOI](https://zenodo.org/badge/965483781.svg)](https://doi.org/10.5281/zenodo.15207453)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ For usage of the associated ***code***, please also cite:
 
 - **Labache, L.** (2025). The molecular and cellular underpinnings of
   human brain lateralization. loiclabache/Labache_2025_MolCelLat. DOI:
-  [10.5281/zenodo.X](https://zenodo.org/doi/10.5281/zenodo.X)
+  [10.5281/zenodo.15207454](https://zenodo.org/doi/10.5281/zenodo.15207454)
 
 ------------------------------------------------------------------------
 
