@@ -280,6 +280,48 @@ ggplot(main_shape_data_modeTwo, aes(fMRI, Neurotransmitters)) +
   theme_classic() 
 
 
+# Bootstrapping method to evaluate contribution of each variables to CCA modes..
+#...............................................................................
+set.seed(13)
+B = 10000
+n = nrow(fMRI_PCs)
+task_df = data.frame(prod = asym$sentMword_prod,
+                     read = asym$sentMword_read,
+                     list = asym$sentMword_list,
+                     attention = asym$LBJ)
+loadings_boot = matrix(NA, nrow = B, ncol = ncol(task_df) + (ncol(neuro)-1))
+pb = progress::progress_bar$new(format = "Processing [:bar] :percent in :elapsed",
+                                total = B, clear = FALSE, width = 60)
+for (b in seq_len(B)) {
+  idx = sample.int(n, n, replace = TRUE)
+  cca_res = cc(fMRI_PCs[idx, , drop = FALSE], neurotrans_PCs[idx, , drop = FALSE])
+  
+  # sign alignment to the full-sample direction
+  sgn_x = sign(cor(cca_res$scores$xscores[, 1], mod$scores$xscores[idx, 1], use = "pairwise.complete.obs"))
+  sgn_y = sign(cor(cca_res$scores$yscores[, 1], mod$scores$yscores[idx, 1], use = "pairwise.complete.obs"))
+  sgn_x[is.na(sgn_x)] = 1
+  sgn_y[is.na(sgn_y)] = 1
+  
+  loadX = cor(task_df[idx, ], sgn_x * cca_res$scores$xscores[, 1],
+              use = "pairwise.complete.obs")
+  loadY = cor(neuro[idx, -1], sgn_y * cca_res$scores$yscores[, 1],
+              use = "pairwise.complete.obs")
+  loadings_boot[b, ] = c(loadX, loadY)
+  pb$tick()
+}
+SE = apply(loadings_boot, 2, sd, na.rm = TRUE)
+names(SE) = c(colnames(task_df), colnames(neuro)[-1])
+load_full = c(setNames(init_cor_taskMode$cor,  as.character(init_cor_taskMode$variable)),
+              setNames(init_cor_neuroMode$cor, as.character(init_cor_neuroMode$variable)))
+load_full = load_full[names(SE)]
+z = load_full / SE
+p = 2 * pnorm(-abs(z))
+p_FDR_neurot = p.adjust(p[5:23], method = "holm")
+p_FDR_neurot[which(p_FDR_neurot<0.05)]
+p_FDR_task = p.adjust(p[1:4], method = "holm")
+p_FDR_task[which(p_FDR_task<0.05)]
+
+
 # Spin Test on Task Data........................................................
 #...............................................................................
 activation = read.csv(here(path_folder, "Data",

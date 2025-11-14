@@ -102,9 +102,12 @@ All the data necessary to reproduce the results are available in the
   four tasks.
 
 - `19neurotransmitters_163ROIs_AICHA_asym_zScored.csv` corresponds to
-  the asymmetry of 19 neurotransmitter systems maps (see [Hansen, J. Y.,
-  et al. 2022](https://doi.org/10.1038/s41593-022-01186-3)) for each of
-  the 163 regions of the AICHA atlas .
+  the asymmetry of the 19 neurotransmitter systems maps (see [Hansen, J.
+  Y., et al. 2022](https://doi.org/10.1038/s41593-022-01186-3)) for each
+  of the 163 regions of the AICHA atlas.
+  `19neurotransmitters_384ROIs_AICHA_zScored.csv` corresponds to the
+  left and right values of the 19 neurotransmitter maps for each of the
+  384 regions of the AICHA atlas.
 
 - `24_CellularSubtypes_304ROIs_AICHA_zscored.csv` corresponds to 24
   cell-type maps (see [Zhang, X-H., et

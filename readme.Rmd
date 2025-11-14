@@ -57,7 +57,7 @@ All the data necessary to reproduce the results are available in the `Data` fold
 
 -   `4tasks_typicalStrong_370ROIs_AICHA.csv` corresponds to the average brain activity of 125 strongly typical participants (see [Labache, L., et al. 2020](https://doi.org/10.7554/eLife.58722)) during three language tasks and a visuospatial attention task in each of the 370 regions of the AICHA atlas. `4tasks_typicalStrong_185ROIs_AICHA_asym.csv` corresponds to the asymmetry for each of the 185 regions of the AICHA atlas during these four tasks.
 
--   `19neurotransmitters_163ROIs_AICHA_asym_zScored.csv` corresponds to the asymmetry of 19 neurotransmitter systems maps (see [Hansen, J. Y., et al. 2022](https://doi.org/10.1038/s41593-022-01186-3)) for each of the 163 regions of the AICHA atlas .
+-   `19neurotransmitters_163ROIs_AICHA_asym_zScored.csv` corresponds to the asymmetry of the 19 neurotransmitter systems maps (see [Hansen, J. Y., et al. 2022](https://doi.org/10.1038/s41593-022-01186-3)) for each of the 163 regions of the AICHA atlas. `19neurotransmitters_384ROIs_AICHA_zScored.csv` corresponds to the left and right values of the 19 neurotransmitter maps for each of the 384 regions of the AICHA atlas.
 
 -   `24_CellularSubtypes_304ROIs_AICHA_zscored.csv` corresponds to 24 cell-type maps (see [Zhang, X-H., et al. 2024](https://doi.org/10.1038/s41593-024-01812-2)) for each of the 304 regions of the AICHA atlas.
 
