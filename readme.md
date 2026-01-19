@@ -219,5 +219,4 @@ The atlases used in the paper are available in the `Atlas` folder.
 
 ## Questions
 
-Please contact me (Loïc Labache) at: <loic.labache@rutgers.edu> and/or
-<loic.labache@ensc.fr>
+Please contact me (Loïc Labache) at: <loic.labache@rutgers.edu>

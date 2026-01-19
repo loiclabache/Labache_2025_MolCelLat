@@ -97,4 +97,4 @@ The atlases used in the paper are available in the `Atlas` folder.
 
 ## Questions {#questions}
 
-Please contact me (Loïc Labache) at: [loic.labache\@rutgers.edu](mailto:loic.labache@rutgers.edu){.email} and/or [loic.labache\@ensc.fr](mailto:loic.labache@ensc.fr){.email}
+Please contact me (Loïc Labache) at: [loic.labache\@rutgers.edu](mailto:loic.labache@rutgers.edu){.email}
